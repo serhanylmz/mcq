@@ -1,0 +1,2764 @@
+[
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 1,
+    "question": "Du jobbar på en akutmottagning och träffar ett 10-årigt barn med ett fult sår över handryggen som behandlades på hälsocentralen. Föräldrarna har varit oroliga för infektion. Du konstaterar att såret hypergranulerar och inte ser infekterat ut. Efter att du rensat såret vill barnets föräldrar att du följer upp patienten på akutmottagningen. Hur hanterar du deras önskan?",
+    "options": [
+      "Frågar om familjen kan återkomma nästa dag under din lunchrast för omläggning",
+      "Frågar om orsaken till varför föräldrarna vill det",
+      "Frågar om du ska föreslå en läkare på en annan vårdcentral som du vet är duktig",
+      "Frågar föräldrarna om de inte förstår när man får söka akutmottagning",
+      "Frågar om de vill att du ska komma på ett hembesök mot särskild ersättning"
+    ],
+    "answer": "Frågar om orsaken till varför föräldrarna vill det"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 2,
+    "question": "En 69-årig, i övrigt helt frisk kvinna har sedan några veckor noterat att raka linjer (t ex dörrposter och flaggstänger) ser krokiga ut när hon tittar med höger öga. Inga andra symptom från ögonen. Synskärpan är 0,2 på höger öga och 1,0 på vänster med egna glasögon. Vilken åtgärd bör du vidta initialt på hälsocentralen?",
+    "options": [
+      "Remiss till ögonklinik på misstanke om makuladegeneration",
+      "Råd om att skaffa nya glasögon",
+      "Behandling med tårsubstitut",
+      "Expektans",
+      "Utredning med P-glukos, Hb, CRP, blodtryck och EKG."
+    ],
+    "answer": "Remiss till ögonklinik på misstanke om makuladegeneration"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 3,
+    "question": "Vilken förändring av hennes läkemedelsbehandling är nu mest relevant? Välj ett alternativ:",
+    "options": [
+      "Tillägg av långverkande β₂-stimulerare",
+      "Tillägg av långverkande β₂-stimulerare i kombination med inhalationssteroid",
+      "Tillägg av T. roflumilast",
+      "Byte av Inh. tiotropium mot långverkande β₂-stimulerare i kombination med inhalationssteroid",
+      "Tillägg av kortverkande β₂-stimulerare vid behov"
+    ],
+    "answer": "Tillägg av långverkande β₂-stimulerare"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 4,
+    "question": "Vad är viktigast att göra i detta fall? Välj ett alternativ:",
+    "options": [
+      "Remiss för datortomografi av thorax",
+      "Behandling med T. fenoximetylpenicillin 1g × 3 i en vecka och förnyad lungröntgen om 2 månader",
+      "Remiss direkt till lungmottagning för utredning av lungcancer",
+      "Remiss för datortomografi av thorax och övre buk",
+      "Remiss för positronemissionstomografi/datortomografi av thorax och övre buk"
+    ],
+    "answer": "Remiss direkt till lungmottagning för utredning av lungcancer"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 5,
+    "question": "Fred är 65 år och före detta rökare. Han har typ 2 diabetes och hypertoni samt har haft två tidigare hjärtinfarkter, den senaste för ett drygt år sedan. Aktuell medicinering är T. Metformin 500 mg × 2, T. Acetylsalicylsyra 75 mg × 1, T. Bisoprolol 2,5 mg × 1 samt T. Enalapril 10 mg × 1.\n\nSenaste månaden har Fred blivit successivt mer andfådd vid ansträngning och ibland även nattetid. Ingen direkt feber men av och till lite hosta. Lungröntgen visar förstorat hjärta med vidgare kärl centralt och 3 cm fritt utflytande pleuravätska på höger sida.\n\nVilken är den mest sannolika orsaken till patientens pleuravätska?",
+    "options": [
+      "Asbestos",
+      "Hjärtsvikt",
+      "Tuberkulos",
+      "Malignitet",
+      "Pleuropneumoni"
+    ],
+    "answer": "Hjärtsvikt"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 6,
+    "question": "Vid in vitro fertilisering (IVF) kan man använda embryon fram till blastocyststadiet för implantering.\n\nVid vilket stadium kallas embryot en blastocyst?",
+    "options": [
+      "Då epiblast och hypoblast bildats",
+      "Då ektoderm, entoderm och mesoderm bildats",
+      "Då äggcellen bildat en homogen sfär innehållande 8 celler",
+      "Då det skapats ett hålrum med en inre cellmassa",
+      "Då gulesäcken har bildats"
+    ],
+    "answer": "Då det skapats ett hålrum med en inre cellmassa"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 7,
+    "question": "Heparin används för att förhindra blodproppar. Vad är verkningsmekanismen hos heparin? Välj ett alternativ:",
+    "options": [
+      "Aktiverar produktion av prostacyklin",
+      "Ökar antitrombins effektivitet",
+      "Aktiverar protein C-systemet",
+      "Hämmar produktion av tromboxan",
+      "Aktiverar plasminogen"
+    ],
+    "answer": "Ökar antitrombins effektivitet"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 8,
+    "question": "Hypofysen är indelad i neurohypofysen, adenohypofysen och en intermediär del. Vilket av följande hormoner utsöndras via neurohypofysen? Välj ett alternativ:",
+    "options": [
+      "Oxytocin",
+      "Melanin",
+      "Adrenokortikotropt hormon",
+      "Tyroxin",
+      "Tillväxthormon"
+    ],
+    "answer": "Oxytocin"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 9,
+    "question": "Celler binds ofta samman med varandra genom så kallade junctions. Vad kallas junctions som skapar en förbindelse mellan cellers olika cytosoler? Välj ett alternativ:",
+    "options": [
+      "Integriner",
+      "Tight junctions",
+      "Desmosomer",
+      "Adherens junctions",
+      "Gap junctions"
+    ],
+    "answer": "Gap junctions"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 10,
+    "question": "Extracellulära matrix utgör till stor del de makrostrukturer som ger organ och vävnader dess form och funktion. Vilket av följande proteiner är vanligast förekommande i extracellulära matrix?",
+    "options": [
+      "Myosin",
+      "Tubulin",
+      "Makroglobulin",
+      "Actin",
+      "Kollagen"
+    ],
+    "answer": "Kollagen"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 11,
+    "question": "En 30-årig kvinna kommer till akutmottagningen då hon tycker att benen sväller. I status noterar du att vänster underben är 1 cm tjockare än på motsvarande nivå på höger sida. Det finns en rodnad på vänster fotrygg, men ingen värmeökning eller smärta där. Homans tecken är positivt. Vad är bästa fortsatta handläggning?",
+    "options": [
+      "Provtagnig D-dimer",
+      "Ordinera lokalbehandling med hirudoidsalva",
+      "Beställa ett ultraljud av vänster ben",
+      "Ordinera dalteparin 200 IE/kg s.c. i en månad, därefter 150 IE /kg s.c.",
+      "Ordinera apixaban 10 mg x 2 i 7 dagar följt av 5 mg x 2"
+    ],
+    "answer": "Ordinera dalteparin 200 IE/kg s.c. i en månad, därefter 150 IE /kg s.c."
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 12,
+    "question": "En 50-årig tidigare frisk, medicinfri kvinna kommer till akutmottagningen på remiss från hälsocentralen. I remissen framkommer att hon har varit tröttare än vanligt sista veckorna, nu blir hon andfådd när hon går med matkassar uppför två trappor. Man har från hälsocentralen tagit ett blodstatus som visar ett B-LPK på 1,9 × 10⁹ (ref 3,5-8,8) varav neutrofila granulocyter på 0,27 × 10⁹ (ref 1,6-5,9). Övrigt blodstatus, CRP samt elektrolyter är normala.\n\nStatus:\nAllmäntillstånd: Gott, ingen feber. Inga perifera inkompensationstecken. Saturation 96 % utan syrgas.\nCor: Regelbunden rytm, puls 78 /minut.\nPulm: Auskulteras utan anmärkning.\nBlodtryck 165/88 mmHg\nBuk: Mjälten palperas 2 cm nedanför vänster arcus. I övrigt mjuk och oöm\n\nVilken undersökning eller utredning är nu mest prioriterad?\nVälj ett alternativ:",
+    "options": [
+      "Benmärgsaspirat",
+      "Datortomografi buk",
+      "HIV-serologi",
+      "Datortomografi lungor",
+      "Ultraljud buk"
+    ],
+    "answer": "Ultraljud buk"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 13,
+    "question": "Erik, 34 år, berättar att hans pappa har haft djupa ventromboser upprepade gånger, och att pappan nu står på warfarin sedan många år.\n\nErik är orolig för att detta ska vara något som är ärftligt och undrar om han kan få kontrollera detta genom provtagning.\n\nDu funderar över vilka prover man kan ta för att leta efter hereditär trombofili.\n\nVilket av följande provsvar talar för hereditär trombofili hos Erik?\nVälj ett alternativ:",
+    "options": [
+      "Avsaknad av protrombingenmutation",
+      "Förekomst av lupus antikoagulans",
+      "Hög nivå av protein C",
+      "Låg nivå av protein S",
+      "Förekomst av kardiolipinantikroppar"
+    ],
+    "answer": "Förekomst av lupus antikoagulans"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 14,
+    "question": "Infektiösa diarrésjukdomar är en mycket vanlig infektionstyp och tiotusentals fall inträffar årligen i Sverige. Vilket av följande påståenden är mest korrekt när det gäller bakteriella tarminfektioner? Välj ett alternativ:",
+    "options": [
+      "Fågelkött är en sällsynt orsak till tarminfektion",
+      "Är den enda orsaken till hemolytiskt uremiskt syndrom",
+      "Bakteriella tarminfektioner karakteriseras av blodiga diarréer och tenesmer, men sällan feber",
+      "Ett flertal bakteriella tarminfektioner kan predisponera för reaktiva artriter",
+      "De flesta bakteriella tarminfektioner har inhemskt ursprung"
+    ],
+    "answer": "Ett flertal bakteriella tarminfektioner kan predisponera för reaktiva artriter"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 15,
+    "question": "Multiresistenta Staphylococcus aureus (MRSA) är ett av de största problemen när det gäller antibiotikaresistenta bakterier. Vilket av följande påståenden är mest korrekt när det gäller MRSA? Välj ett alternativ:",
+    "options": [
+      "Meticillinresistens förekommer enbart hos Staphylococcus aureus",
+      "MRSA är sällan resistenta mot andra antibiotika som kan användas för att behandla stafylokockinfektioner",
+      "Bärarskap kan vara mycket långvarigt hos individer med eksem",
+      "Korrekt antibiotikabehandling av MRSA-patienter är den enskilt viktigaste faktorn för att förhindra spridning inom vården",
+      "Kontrollodling ska alltid genomföras när patienter överförs mellan sjukhus för att undersöka förekomst av MRSA"
+    ],
+    "answer": "Bärarskap kan vara mycket långvarigt hos individer med eksem"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 16,
+    "question": "Cellen har två grupper av enzymer som motverkar den positiva supercoilen som bildas t. ex. när DNA-strängarna separeras vid DNA-replikation. Enzymer i grupp I bryter kovalent fosfodiesterbindningen på den ena strängen så att supercoilen kan snurras upp och sedan återförslutas. Enzymer i grupp II bryter båda DNA-strängarna, låter DNA snurra upp och återförsluter sedan. Grupp II använder ATP som energikälla. Vad heter dessa enzymer? Välj ett alternativ:",
+    "options": [
+      "Ribonukleaser",
+      "Helikaser",
+      "Endonukleaser",
+      "Topoisomeraser",
+      "Exonukleaser"
+    ],
+    "answer": "Topoisomeraser"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 17,
+    "question": "Proteiner syntetiseras i multiproteinkomplex. Vad heter dessa multiproteinkomplex? Välj ett alternativ:",
+    "options": [
+      "Peroxisomer",
+      "Lysosomer",
+      "Proteasomer",
+      "Mitokondrier",
+      "Ribosomer"
+    ],
+    "answer": "Ribosomer"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 18,
+    "question": "Metotrexat blockerar reduktion av folat och inhiberar som en följd av detta en process som är viktig för celldelning. Vilken process? Välj ett alternativ:",
+    "options": [
+      "Syntes av cykliner och CDK",
+      "Syntes av ribosomer",
+      "Syntes av mikrotubuli",
+      "Fosforylering av proteinet från retinoblastomgenen (Rb)",
+      "Syntes av puriner och dTMP"
+    ],
+    "answer": "Syntes av puriner och dTMP"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 19,
+    "question": "Du jobbar på primärvårdsjouren en helgdag. Ingrid, 65 år, kommer till dig på grund av uttalad trötthet sedan några veckor tillbaka. Hon har hypertoni som behandlas med T. hydroklortiazid och typ 2 diabetes som behandlas med kost och motion. Hon går på regelbundna kontroller på sin hälsocentral 2 gånger per år. Medföljande make berättar att patienten blivit glömsk och lätt förvirrad senaste veckorna. Hon har tidigare varit helt klar och mått bra. Hon har sedan några veckor tillbaka känt sig mer törstig, druckit mer och kissat mer än vanligt och besväras av förstoppning. De senaste dagarna har hon varit närmast sängliggande då hon känt sig väldigt trött och svag i benen.\n\nStatus:\nTemp: 37,2 °C\nBlodtryck: 125/75 mmHg\nCor: regelbunden rytm, inga blåsljud. Frekvens cirka 90 /minut.\nPulm och buk: utan anmärkning\n\nVilket av följande blodprover är viktigast just nu för fortsatt handläggning av patienten?\nVälj ett alternativ:",
+    "options": [
+      "S-TSH",
+      "P-Ca2+",
+      "B-glukos",
+      "B-Hb",
+      "P-CRP"
+    ],
+    "answer": "B-glukos"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 20,
+    "question": "Per, 23 år, motionerar flitigt. Han kommer till dig på hälsocentralen efter midsommar på grund av kliande ögon men framförallt nästäppa och snuva. Han hade liknande besvär ifjol och då räckte det att använda receptfria \"allergitabletter\" vid behov. I år har han besvär trots att han tar \"allergitabletterna\" varje dag och han har inte heller kunnat löpträna på grund av att han får hosta vid ansträngning. Spirometri visar normalt fynd.\n\nVilken åtgärd är mest adekvat i detta fall?\nVälj ett alternativ:",
+    "options": [
+      "Du ordinerar peroralt antihistamin + nasal steroid + skriver remiss till lungmedicin/allergolog för utredning av misstänkt pollenallergi",
+      "Du ordinerar antihistamin peroralt + oral kortisonkur med nedtrappning i relation till symptombild",
+      "Du ordinerar antihistamin peroralt + kortisonspruta",
+      "Du ordinerar peroralt antihistamin + nasal steroid + inhalationssteroid + inhalation av snabbverkande β2-stimulerare vid behov",
+      "Du skriver remiss till lungklinik/allergolog för allergen immunterapi (AIT/hyposensibilisering) mot pollen"
+    ],
+    "answer": "Du ordinerar peroralt antihistamin + nasal steroid + inhalationssteroid + inhalation av snabbverkande β2-stimulerare vid behov"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 21,
+    "question": "Frank, 65 år, slutade röka för åtta år sedan. Han kommer nu till dig på hälsocentralen på grund av försämrad kondition. Han blir andfådd vid ansträngning och hänger inte längre med jämnåriga hustrun i uppförsbackarna när de är ute på promenad. Han hostar slem periodvis men så har det varit i några år nu och han har inte behövt söka akut. Vilken undersökning bör du i första hand beställa? Välj ett alternativ:",
+    "options": [
+      "Lungröntgen",
+      "Saturation vid ansträngning",
+      "PEF-kurva",
+      "Datortomografi med pulmonalisangiografi",
+      "Spirometri"
+    ],
+    "answer": "Spirometri"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 22,
+    "question": "En 65-årig man har tablettbehandlad hypertoni och har aldrig rökt. Han kommer nu till dig på hälsocentralen på grund av försämrad kondition. Han blir andfådd vid ansträngning och senaste månaderna har han märkt att han inte hänger med sin jämnåriga hustru i uppförsbackarna när de är ute på promenad. I anamnesen framkommer att han har haft hosta sedan minst fyra månader. Vid lungauskultation noterar du diskreta krepitationer basalt bilateralt. Vilken utredning bör du i första hand beställa? Välj ett alternativ:",
+    "options": [
+      "PEF-kurva och allergitest",
+      "EKG och saturation",
+      "Arbets-EKG",
+      "Spirometri och lungröntgen",
+      "SR, blodvärde, kreatinin"
+    ],
+    "answer": "Spirometri och lungröntgen"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 23,
+    "question": "En 68-årig pensionerad kvinna som slutat röka för tre år sedan kommer till dig på hälsocentralen. Hon har sedan några år fått tilltagande besvär med långdragen hosta och andfåddhet vid ansträngning. Till följd av ansträngningsdyspné kan hon inte längre gå lika fort som den jämnårige maken när de är ute på promenader. Både patienten och maken har vaccinerat sig mot influensa varje år och hon har inte haft några förkylningar de senaste två åren.\n\nSpirometri efter bronkdilatation visar FEV1/FVC 0.63, FEV1 68 % av förväntat värde. COPD-assessment test (CAT) visar 15 poäng.\n\nDu misstänker att patienten har kroniskt obstruktiv lungsjukdom.\n\nVilken inhalationsbehandling bör du erbjuda henne?",
+    "options": [
+      "LABA (långverkande β₂-agonist) och/eller LAMA (långverkande antikolinergikum) regelbundet dagligen",
+      "Kortverkande β₂-agonist (SABA) vid behov",
+      "Inhalationssteroid (ICS) och LABA (långverkande β₂-agonist) regelbundet dagligen + kortverkande β₂-agonist (SABA) vid behov",
+      "Inhalationssteroid (ICS), LABA (långverkande β₂-agonist) och LAMA (långverkande antikolinergikum) regelbundet dagligen",
+      "Inhalationssteroid (ICS) och LABA (långverkande β₂-agonist) regelbundet dagligen"
+    ],
+    "answer": "LABA (långverkande β₂-agonist) och/eller LAMA (långverkande antikolinergikum) regelbundet dagligen"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 24,
+    "question": "I mer än 99% av fall med cervixcancer finner man onkogena typer av humant papillomvirus (HPV). Sedan 2010 ingår vaccination mot HPV i skolvaccinationsprogrammet för flickor i Sverige i syfte att minska förekomsten av cervixcancer.\n\nVilket av nedanstående påståenden är korrekt gällande dysplasi, HPV-infektion och vaccination?",
+    "options": [
+      "HPV orsakar cancer enbart hos kvinnor på grund av mottagliga celler i cervix",
+      "HPV-analys har högre sensitivitet för höggradig dysplasi än cytologianalys",
+      "HPV-virus infekterar mogna celler i transformationszonen",
+      "HPV-infektion är anmälningspliktigt enligt smittskyddslagen",
+      "Om man är vaccinerad mot HPV behöver man inte ta cellprov"
+    ],
+    "answer": "HPV-analys har högre sensitivitet för höggradig dysplasi än cytologianalys"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 25,
+    "question": "Elsa, 27 år kommer till dig på hälsocentralen på grund av att hon har svårt att genomföra samlag. Efter anamnes tänker du på flera differentialdiagnoser med symtom från underlivet, men misstänker i första hand vaginism. Vilket av följande påståenden är mest typiskt för kvinnor med vaginism? Välj ett alternativ:",
+    "options": [
+      "FSH i serum är vanligtvis förhöjt vid vaginism",
+      "Biopsi av slemhinnan i vagina ger diagnos",
+      "Vaginalt ses rodnade, inflammerade slemhinnor",
+      "Wet-smear innehåller rikligt med clue cells",
+      "Försök till samlag kan utlösa kramp i vagina"
+    ],
+    "answer": "Försök till samlag kan utlösa kramp i vagina"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 26,
+    "question": "Halsfluss är en vanlig orsak till besök i primärvården och kan orsakas av både virus och bakterier. Vilken av följande bakterier orsakar halsfluss? Välj ett alternativ:",
+    "options": [
+      "Neisseria meningitidis",
+      "Haemophilus influenzae",
+      "Streptococcus pyogenes",
+      "Moraxella catarrhalis",
+      "Staphylococcus aureus"
+    ],
+    "answer": "Streptococcus pyogenes"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 27,
+    "question": "Betalaktamantibiotika och glykopeptidantibiotika är viktiga läkemedel mot bakteriella infektioner. Vilken syntes är det som hämmas av dessa antibiotika? Välj ett alternativ:",
+    "options": [
+      "Cellväggssyntes",
+      "Cellmembransyntes",
+      "DNA-syntes",
+      "Proteinsyntes",
+      "RNA-syntes"
+    ],
+    "answer": "Cellväggssyntes"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 28,
+    "question": "Det är inte ovanligt att cancerpatienter drabbas av neutropen feber av cytostatikabehandling. Vad är kriterierna för neutropen feber? Välj ett alternativ:",
+    "options": [
+      "Temperatur ≥ 38,5 °C och neutrofiler > 0,5 x 10⁹/L",
+      "Temperatur 38 °C under mindre än en timme och neutrofiler < 0,5 x 10⁹/L",
+      "Temperatur 37,5 °C och neutrofiler > 0,5 x 10⁹/L"
+    ],
+    "answer": "Temperatur ≥ 38,5 °C och neutrofiler > 0,5 x 10⁹/L"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 29,
+    "question": "Det är inte ovanligt att cancerpatienter drabbas av tromboser. Vid en av följande cancerformer är tromboser en särskilt vanlig komplikation. Vilken? Välj ett alternativ:",
+    "options": [
+      "Bröstcancer",
+      "Koloncancer",
+      "Lungcancer",
+      "Analcancer",
+      "Pankreascancer"
+    ],
+    "answer": "Pankreascancer"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 30,
+    "question": "Om blodtrycket plötsligt ökar leder baroreceptorreflexen till i en markant sänkt total perifer resistens (TPR). Hur åstadkoms i denna situation den sänkta flödesresistensen i skelettmusklerna? Välj ett alternativ:",
+    "options": [
+      "Sympatisk aktivering av binjurarnas adrenalinfrisättning",
+      "Minskad sympatikustonus",
+      "Frisättning av NO",
+      "Sympatisk vasodilatation via β₂-receptorer",
+      "Parasympatisk aktivering"
+    ],
+    "answer": "Frisättning av NO"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 31,
+    "question": "En balanserad saltlösning med acetat (såsom Ringer-Acetat) kan användas för att rehydrera en patient. Tillförseln kan störa patientens syra-basbalans. Vilken syra-basstörning kan orsakas av denna lösning? Välj ett alternativ:",
+    "options": [
+      "Primär respiratorisk acidos",
+      "Primär metabol alkalos",
+      "Metabol och respiratorisk alkalos",
+      "Primär respiratorisk alkalos",
+      "Primär metabol acidos"
+    ],
+    "answer": "Primär metabol alkalos"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 32,
+    "question": "Hjärtats verkningsgrad - hur effektivt det nyttjar energi - kan optimeras av autonoma nervsystemet. Varför är det energimässigt fördelaktigt att öka slagfrekvensen snarare än slagvolymen när hjärtminutvolymen behöver ökas vid början av fysiskt arbete? Välj ett alternativ:",
+    "options": [
+      "För att öka hjärtminutvolymen så mycket som möjligt enligt Ohms lag.",
+      "För att hålla blodtrycket så lågt som möjligt enligt Hagen-Poiseuilles lag.",
+      "För att hålla tensionen i väggen så låg som möjligt enligt Laplace lag.",
+      "Om det är fördelaktigt eller inte har inte med saken att göra eftersom aktivering av autonoma nervsystemet alltid ger ökad hjärtfrekvens.",
+      "Den förkortade diastoliska perioden minimerar onödig energikonsumtion."
+    ],
+    "answer": "För att hålla tensionen i väggen så låg som möjligt enligt Laplace lag."
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 33,
+    "question": "Överaktiv blåsa är ett tillstånd som karaktäriseras av att urinblåsan är mer aktiv än normalt och därför kan orsaka ofrivillig urinavgång. En av följande receptorer kan minska aktivitet i blåsväggens glattmuskulatur om just den receptorn aktiveras. Vilken typ av receptor gäller det? Välj ett alternativ:",
+    "options": [
+      "α₂",
+      "M₃",
+      "α₁",
+      "M₁",
+      "β₃"
+    ],
+    "answer": "β₃"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 34,
+    "question": "Hyperparatyroidism kännetecknas bland annat av förhöjda nivåer paratyroidea-hormon (PTH). Till vilket tillstånd associeras tertiär hyperparatyroidism? Välj ett alternativ:",
+    "options": [
+      "Paratyroideahyperplasi",
+      "Kronisk hyperkalcemi",
+      "Kronisk njursvikt",
+      "Paratyroideaadenom",
+      "Paratyroideakarcinom"
+    ],
+    "answer": "Kronisk njursvikt"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 35,
+    "question": "En 68-årig före detta rökare med massiv lungmetastasering där ursprungstumören är okänd vårdas för besvärande andnöd. Man har genomfört en noggrann utredning för att kunna hitta orsaker som kan behandlas kausalt utan resultat. Han har B-Hb på 110 g/L (referens 134-170), saturation på 93 %, andningsfrekvens på 18 /minut och anger numerisk skala (NRS) = 6 för andnöden. Han undrar om syrgasbehandling skulle vara en bra möjlighet. Vilket svar är bäst? Välj ett alternativ:",
+    "options": [
+      "Nej, även om syrgasbehandling skulle lindra så är det för komplicerat i hemmiljö",
+      "Ja, kan vi prova syrgas då det är en ofarlig behandling",
+      "Ja, vi kan prova syrgas bara du undviker att röka, tända ljus eller liknande",
+      "Nej, risken för koldioxidretention är alltid stor hos före detta rökare",
+      "Nej, då du inte har någon syrebrist måste vi behandla andnöden på annat sätt"
+    ],
+    "answer": "Nej, då du inte har någon syrebrist måste vi behandla andnöden på annat sätt"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 36,
+    "question": "I livets slutskede är det en viktig läkaruppgift att ordinera läkemedel som kan ges vid behov i injektionsform för de vanligast förekommande symtomen som kan dyka upp. Det gäller smärta, ångest, rosslighet och illamående. Vilket läkemedel rekommenderas i första hand för illamående oavsett vilken obotlig sjukdom patienten drabbats av? Välj ett alternativ:",
+    "options": [
+      "Haloperidol",
+      "Hyoscinbutylbromid",
+      "Betametason",
+      "Midazolam",
+      "Propofol"
+    ],
+    "answer": "Haloperidol"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 37,
+    "question": "Vid varmt och soligt sommarväder, ofta med sydliga vindar, kan utomhusluften även i Sverige orsaka akuta luftvägsproblem och försämring hos astmatiker. Vilken gas är främsta orsaken bakom de andningsproblem som orsakas av denna typ av \"sommarsmog\"? Välj ett alternativ:",
+    "options": [
+      "Kvävedioxid",
+      "Koldioxid",
+      "Ozon",
+      "Metan",
+      "Svaveldioxid"
+    ],
+    "answer": "Ozon"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 38,
+    "question": "En 72-årig man har för två veckor sedan drabbats av herpes zoster på baksidan av vänster ben. Blåsorna har nu torkat in, men han har kvar en svår brännande smärta som han nu önskar få hjälp med. Vilket av följande läkemedel bör du i första hand ordinera? Välj ett alternativ:",
+    "options": [
+      "Ibuprofen",
+      "Amitriptylin",
+      "Oxazepam",
+      "Paracetamol",
+      "Klorzoxazon"
+    ],
+    "answer": "Amitriptylin"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 39,
+    "question": "Anna, 45 år, söker vård på hälsocentralen. Hon är orolig för att ha drabbats av fibromyalgi. Du ber henne berätta om sina besvär. Vilket av följande symtom ingår i diagnosen fibromyalgi? Välj ett alternativ:",
+    "options": [
+      "Feber",
+      "Smärta som följer ett dermatom",
+      "Blodtrycksstegring",
+      "Lokaliserad smärta i halsryggen",
+      "Generaliserad smärta"
+    ],
+    "answer": "Generaliserad smärta"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 40,
+    "question": "Olle, 18 år, söker vård på hälsocentralen 4 veckor efter han åkt snowboard och ådragit sig en hjärnskakning. Vilka av följande symtom är vanliga vid post-commotio syndrom? Välj ett alternativ:",
+    "options": [
+      "Minskat sömnbehov, ökad aktivitetsnivå, klåda",
+      "Hjärtklappning, viktuppgång",
+      "Huvudvärk, trötthet, ljudkänslighet",
+      "Feber, hosta,",
+      "Blodtrycksfall, buksmärtor, svettningar"
+    ],
+    "answer": "Huvudvärk, trötthet, ljudkänslighet"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 41,
+    "question": "Till din förmiddagsmottagning på hälsocentralen kommer nedanstående fem patienter. Vilken av dem bör du som distriktsläkare kunna handlägga själv utan remiss till ögonklinik? Välj ett alternativ:",
+    "options": [
+      "50-årig kvinna med nyupptäckt typ II-diabetes",
+      "20-årig kvinna med ont i höger öga, hos vilken man ser en lätt ljusväg i främre kammaren",
+      "40-årig skidåkare med förskräckligt ont i båda ögonen efter en dag på fjället i strålande sol",
+      "70-årig kvinna med tidigare lätt synförsämring som plötsligt ser raka linjer som krokiga på höger öga",
+      "30-årig myop man med ljusblixtar för höger öga för några dagar sedan och en nytillkommen skugga temporalt"
+    ],
+    "answer": "40-årig skidåkare med förskräckligt ont i båda ögonen efter en dag på fjället i strålande sol"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 42,
+    "question": "Allodyni är ett fenomen som kan förekomma vid många olika smärttillstånd. Vilket påstående beskriver bäst vad som menas med allodyni? Välj ett alternativ:",
+    "options": [
+      "En normalt icke smärtsam stimulering upplevs som smärtsam",
+      "Smärta upplevs som kommande från en skadad nervs innervationsområde",
+      "En smärtsam stimulering upplevs starkare än normalt",
+      "Känslor av olust och obehag i samband med smärta",
+      "Smärta från inre organ upplevs som kommande från ytliga strukturer"
+    ],
+    "answer": "En normalt icke smärtsam stimulering upplevs som smärtsam"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 43,
+    "question": "Kalle, 35 år, med ett känt och långvarigt drogmissbruk har fått ett knytnävsslag mot vänster sida av käken. Han inkommer till akutmottagningen några timmar efter slagsmålet för att det gjorde ont, blödde ur munnen och att han hade lite svårt att gapa. Datortomografi visar fraktur genom corpus mandibulae på vänster sida och genom collum mandibulae på höger sida. Efter datortomografi-undersökningen avviker Kalle från mottagningen, men återkommer 9 dagar senare med hög feber, ansträngd andning och svullnad på halsen. Vilket av följande alternativ stämmer bäst med den kliniska bilden? Välj ett alternativ:",
+    "options": [
+      "Fraktur genom tandalveol har orsakat spridning av bakterier till munbotten",
+      "Kvarvarande trasig tand i frakturspralt har gett en peritonsillit",
+      "Collum mandibulae-frakturen har gett en sluten ansamling av blod som sekundärinfekterats",
+      "Då han har fraktur på både vänster och höger sida måste han ha fått fler slag än bara ett",
+      "Fortsatt blödning har lett till en aspirationspneumoni"
+    ],
+    "answer": "Fraktur genom tandalveol har orsakat spridning av bakterier till munbotten"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 44,
+    "question": "En kvinna kommer inspringande till dig på hälsocentralen och berättar att hennes make blivit sjuk när han körde bil, han sitter kvar i bilen. Patienten (maken) är 68 år och tidigare frisk. Han drabbades i bilen av en vänstersidig svaghet som är så uttalad att han hade svårt att köra och inte kan kliva ur ur bilen. Vad är bästa handläggningen nu? Välj ett alternativ:",
+    "options": [
+      "Ta in patienten på hälsocentralen och ta EKG och blodprover. Därefter be frun skjutsa patienten till röntgen och skriva remiss för datortomografi hjärna",
+      "Ta in patienten på hälsocentralen och göra nervstatus samt ta EKG och blodprover. Därefter be frun skjutsa patienten till röntgen och skriva remiss för datortomografi hjärna",
+      "Skicka patienten till sjukhus direkt med ambulans",
+      "Be frun skjutsa patienten till röntgen och skriva remiss för datortomografi hjärna",
+      "Ta in patienten på hälsocentralen och göra ett nervstatus. Därefter be frun skjutsa patienten till röntgen och skriva remiss för datortomografi hjärna"
+    ],
+    "answer": "Skicka patienten till sjukhus direkt med ambulans"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 45,
+    "question": "Du är underläkare på en strokeavdelning och går förmiddagsrond. En 74-årig kvinna blev inlagd dagen innan på eftermiddagen då hon på förmiddagen igår plötsligt hade fått svårt att prata och blivit svag i höger arm och ben. När du undersöker henne idag vid ronden kvarstår det mesta av hennes besvär. Patienten har inga tidigare mediciner.\n\nEn datortomografi hjärna under gårdagen visade ingen blödning, datortomografi-angiografi visade inga stenos­er eller blodproppar. Blodtrycket är nu 152/86 mmHg, Total P-kolesterol är 5,8 (ref 3,9-7,8), fP-LDL 3,2 (ref 2,0-5,3) samt P-HDL 1,05 (ref 1,0-2,7). Ett EKG har tagits som visar ett förmaksflimmer.\n\nVilken behandling bör genomföras idag?\nVälj ett alternativ:",
+    "options": [
+      "Trombektomi",
+      "T. enalapril 10 mg x 1, T. acetylsalicylsyra 75 mg 4 × 1 nu, därefter 1 × 2, samt T. clopidogrel 75 mg 4 × 1 nu, därefter 1 x 1",
+      "Inj alteplas i.v. i fulldos",
+      "Inj alteplas i.v. i lågdos",
+      "T. atorvastatin 40 mg × 1 samt T. apixaban 5 mg × 2"
+    ],
+    "answer": "T. atorvastatin 40 mg × 1 samt T. apixaban 5 mg × 2"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 46,
+    "question": "En tidigare frisk 63-årig kvinna kommer till akutmottagningen på grund av högersidig svaghet och talsvårigheter sedan mer än 1 dygn.\n\nMåste du komplettera med något för att kunna ställa diagnosen stroke, i så fall vad?\nVälj ett alternativ:",
+    "options": [
+      "Inget behöver kompletteras, diagnosen stroke kan redan ställas",
+      "Fråga om symtomen debuterade plötsligt",
+      "Utföra nervstatus för att avgöra om talsvårigheten är dysartri eller afasi",
+      "Utföra nervstatus för att säkerställa att symtomen finns kvar",
+      "Göra datortomografi hjärna"
+    ],
+    "answer": "Fråga om symtomen debuterade plötsligt"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 47,
+    "question": "Ida är på 4-årskontroll på barnavårdscentralen och ser 0,9 med höger öga och 0,4 med vänster öga. Hur bör du handlägga detta? Välj ett alternativ:",
+    "options": [
+      "Du kontrollerar visus igen inom 4 veckor och börjar då med att testa vänster öga först",
+      "Du provar att refraktionera henne då du misstänker att hon är hyperop",
+      "Du remitterar henne till barnkliniken",
+      "Du provar att refraktionera henne då du misstänker att hon är myop",
+      "Du remitterar henne till ögonkliniken akut"
+    ],
+    "answer": "Du kontrollerar visus igen inom 4 veckor och börjar då med att testa vänster öga först"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 48,
+    "question": "Johan, 52 år, har noterat något konstigt med sitt högra öga sedan några dagar, bland annat att han har sett starka ljus under korta stunder. Idag förstod han att det finns en skugga som gör att han inte ser åt höger med ögat. Vilken åtgärd är mest adekvat? Välj ett alternativ:",
+    "options": [
+      "Ge lugnande besked",
+      "Omedelbart remittera patienten till ögonkliniken",
+      "Remittera patienten till akut röntgenundersökning",
+      "Boka in återbesök om en vecka",
+      "Råda patienten att besöka optikern"
+    ],
+    "answer": "Omedelbart remittera patienten till ögonkliniken"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 49,
+    "question": "Mats, 40 år, söker akut vård på grund av hängande ögonlock sedan igår kväll. Du konstaterar att han inte kan lyfta vänstra ögonlocket och när du lyfter på det så märker han att han ser dubbelt. Du noterar att vänster öga tittar nedåt och utåt och att han har en stor och ljusstel pupill. Vilken åtgärd är mest adekvat? Välj ett alternativ:",
+    "options": [
+      "Du remitterar till ögonkliniken om besvären kvarstår efter en månad",
+      "Du ger lugnande besked och ber patienten söka igen om besvären inte försvinner på en vecka",
+      "Du kollar vilka mediciner patienten behandlas med och gör cover test",
+      "Du skickar patienten omedelbart till akutmottagningen",
+      "Du gör en Donders konfrontationstest"
+    ],
+    "answer": "Du skickar patienten omedelbart till akutmottagningen"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 50,
+    "question": "Kristina, 55 år, har diabetes och ska behandlas med Glucobay (akarbos). Vilken är verkningsmekanismen? Välj ett alternativ:",
+    "options": [
+      "ökar upptaget av glukos i muskel",
+      "minskar nedbrytningen av kolhydrater i tarmen",
+      "ökar leverns glukosproduktion",
+      "ökar glukosutsöndringen i njuren",
+      "minskar utsöndringen av fria fettsyror från fettceller"
+    ],
+    "answer": "minskar nedbrytningen av kolhydrater i tarmen"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 51,
+    "question": "Agnes, 41 år, har nyligen fått diagnosen hypertyreos. Hon ska få behandling med ett läkemedel som minskar sköldkörtelns produktion av tyreoideahormon. Förutom detta läkemedel behöver hon få ett läkemedel utskrivet som ska mildra hennes symtom. Vilket av följande läkemedel bör du förskriva för att mildra hennes symtom? Välj ett alternativ:",
+    "options": [
+      "sotalol",
+      "atenolol",
+      "bisoprolol",
+      "pindolol",
+      "propranolol"
+    ],
+    "answer": "propranolol"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 52,
+    "question": "Armen innerveras av flertalet nerver. Vad innerverar n. ulnaris? Välj ett alternativ:",
+    "options": [
+      "Alla underarmsextensorer",
+      "Alla underarmsflexorer",
+      "Alla interosser i handen",
+      "Alla lumbrikaler i handen",
+      "Alla muskler i thenarlogen"
+    ],
+    "answer": "Alla interosser i handen"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 53,
+    "question": "Bålens muskulatur är involverad i skulderbladets rörelser. Vad är en vanlig orsak till vingscapula? Välj ett alternativ:",
+    "options": [
+      "Svaghet i m. deltoideus",
+      "Svaghet i m. levator scapulae",
+      "Skada på n. axillaris",
+      "Skada på n. thoracicus longus",
+      "Diskbråck i ländryggsnivå"
+    ],
+    "answer": "Skada på n. thoracicus longus"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 54,
+    "question": "Ett flertal ben ledar mot bröstbenet. I samband med auskultation av hjärtats klaffar palperar du fram angulus sterni för att underlätta positioneringen av ditt stetoskop. Vilket av följande ben ledar mot angulus sterni? Välj ett alternativ:",
+    "options": [
+      "Os xiphoideus",
+      "Humerus",
+      "Clavicula",
+      "Costa 2",
+      "Scapula"
+    ],
+    "answer": "Clavicula"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 55,
+    "question": "Kotpelaren stabiliseras av ett flertal ligament. Vilket av följande ligament är med och stabiliserar den övre nackleden? Välj ett alternativ:",
+    "options": [
+      "lig. lacunare",
+      "lig. supraspinalia",
+      "lig. flavum",
+      "lig. alaria",
+      "lig. intertransversaria"
+    ],
+    "answer": "lig. alaria"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 56,
+    "question": "Britta, 82 år, har sedan sex veckor känt sig trött och hängig. Hon har noterat att hon inte orkar lyfta ned mjölkpaketet från överskåpet i köket och hon klarar inte att gå i trappan upp till sovrummet utan att stanna flera gånger för att vila. Senaste veckan har hon också fått svårare att svälja, maten fastnar i halsen på henne. På händerna har hon upptäckt rosa-lila utslag över fingrarnas sträcksidor, men även över armbågar och knän och att hon är lite svullen kring ögonen. Hon känner sig svag i kroppen hela tiden, utan någon dygnsvariation.\n\nVad har Britta mest sannolikt drabbats av?\nVälj ett alternativ:",
+    "options": [
+      "Psoriasis",
+      "Reumatoid artrit",
+      "Polymyosit",
+      "Polymyalgia reumatica",
+      "Artros"
+    ],
+    "answer": "Polymyosit"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 57,
+    "question": "Beda, 80 år, behandlas för hypertoni och hon drabbades av en hjärtinfarkt för 10 år sedan. Nu har Beda mått dåligt sedan ett par veckor tillbaka. Hon har feber kring 38 °C, känner sig tröttare än tidigare, har blivit öm i hårbotten och det värker i tuggmuskulaturen när hon tuggar. Beda berättar att hon plötsligt, i samband med att hon satt och läste tidningen, upplevde att det svartnade för höger öga under några sekunder. Detta har därefter återkommit vid ett par tillfällen.\n\nVilken diagnos är mest sannolik?\nVälj ett alternativ:",
+    "options": [
+      "Sinuit",
+      "Temporalartärit",
+      "Herpes zoster",
+      "Migrän",
+      "Tandinfektion"
+    ],
+    "answer": "Temporalartärit"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 58,
+    "question": "Du är akutläkare på ett länssjukhus och har just tagit emot en 65-årig patient på remiss från en hälsocentral. På remissen står det \"misstanke om karotisstroke\". Om misstanken är korrekt, vilka fynd bör du finna hos patienten? Välj ett alternativ:",
+    "options": [
+      "Hemipares och facialispares på samma sida av kroppen",
+      "Central facialispares, hemipares och nystagmus",
+      "Horner syndrom, hemipares och bitemporal hemianopsi",
+      "Hemipares och perifer facialispares",
+      "Parapares och afasi"
+    ],
+    "answer": "Hemipares och facialispares på samma sida av kroppen"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 59,
+    "question": "Trombolysbehandling är indicerat vid akut hjärninfarkt. Till vilken av följande patienter med akut hjärninfarkt bör du direkt ge trombolysbehandling? Välj ett alternativ:",
+    "options": [
+      "91-årig man",
+      "74-årig kvinna som insjuknade för 5 timmar sedan",
+      "74-årig man som vaknar med stroke kl 8 efter att ha sovit som en stock sedan kl 02",
+      "45-årig man med INR 2,5",
+      "69-årig kvinna med blodtryck 195/100 mmHg"
+    ],
+    "answer": "74-årig kvinna som insjuknade för 5 timmar sedan"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 60,
+    "question": "Sonny är en överviktig 64-årig man. Han har haft en stressig tillvaro med återkommande svårbehandlade magsår och en lindrig subendokardiell hjärtinfarkt under det senaste året. Nu är han inlagd på din avdelning med en bild av pankreatit. Datortomografi av buken visar förutom en pankreatitretning även en suspekt 3 cm stor tumör i corpus pancreatis. Du inser att detta skulle kunna vara en endokrin pankreastumör. Vilken typ av endokrin pankreastumör stämmer bäst med den kliniska bilden ovan? Välj ett alternativ:",
+    "options": [
+      "Somatostatinom",
+      "VIP-om",
+      "Insulinom",
+      "Glukagonom",
+      "Gastrinom"
+    ],
+    "answer": "Glukagonom"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 61,
+    "question": "Vid en uttalad megaloblastanemi kan man hos diabetiker ibland se ett falskt normalt eller falskt lågt HbA1c trots att patientens diabetes är dåligt reglerad med höga glukosnivåer. Vad är orsaken till detta falskt låga HbA1c vid megaloblastanemi? Välj ett alternativ:",
+    "options": [
+      "Erytrocyterna får en minskad syntes av HbA1",
+      "Erytrocyterna är få till antalet",
+      "Erytrocyterna har kortare överlevnad",
+      "Erytrocyterna är makrocytära",
+      "Erytrocyterna innehåller mindre hemoglobin"
+    ],
+    "answer": "Erytrocyterna har kortare överlevnad"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 62,
+    "question": "Hemolys efter eller i samband med blodprovstagning kan påverka analysresultatet för många blodprover. Vilket av nedanstående prover ökar mest vid hemolys i provröret? Välj ett alternativ:",
+    "options": [
+      "Kalium",
+      "Cystatin C",
+      "Kreatinin",
+      "Urea",
+      "Natrium"
+    ],
+    "answer": "Kalium"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 63,
+    "question": "Ester, 81 år, kommer till dig på hälsocentralen. Hon funderar om hon med åldern börjat få problem med minnet eller om hon har normal minnesfunktion. Vilket av nedanstående alternativ är att betrakta som normalt åldrande? Välj ett alternativ:",
+    "options": [
+      "Ställa samma fråga om och om igen fast hon får höra rätt svar varje gång",
+      "Glömt att en händelse i närtid över huvud taget ägt rum",
+      "Försämrad förmåga att komma ihåg namnet på en person som hon träffar på stan",
+      "Försämrad förmåga att orientera sig, till exempel att hitta tillbaka till platsen där hon parkerade bilen när hon åkte för att handla mat",
+      "Försämrat närminne och behov av hjälpmedel för att komma ihåg"
+    ],
+    "answer": "Försämrad förmåga att komma ihåg namnet på en person som hon träffar på stan"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 64,
+    "question": "Det är en varm sommardag och i egenskap av vikarierande distriktsläkare besöker du Elsy, 79 år gammal. Hon är frisk förutom Alzheimers sjukdom och du har kommit för att bedöma om hon lider av en beteendestörning vid demenssjukdom med tanke på mera oro sista tiden. När du anländer reser hon sig och går emot dig för att hälsa, men svimmar plötsligt. Vilket av följande alternativ är mest trolig orsak till att hon svimmade?",
+    "options": [
+      "Arytmi",
+      "Hypoglykemi",
+      "Vasovagal svimning",
+      "Epileptiskt anfall",
+      "Ortostatisk hypotoni"
+    ],
+    "answer": "Vasovagal svimning"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 65,
+    "question": "Isa, 29 år, födde barn vaginalt för 2 veckor sedan. Hon ammar inte. Nu har hon börjat blöda ganska rikligt vaginalt. Vilken är den mest sannolika orsaken till blödningen?",
+    "options": [
+      "Uterusatoni",
+      "Hinn- och placentarester",
+      "Oupptäckt cervixrift",
+      "Trombocytopeni",
+      "Menstruationsblödning"
+    ],
+    "answer": "Hinn- och placentarester"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 66,
+    "question": "För att diagnostisera olika typer av yrsel finns ett antal kliniska hjälpmedel. Vilken sjukdom verifieras bäst med hjälp av Dix-Hallpikes manöver?",
+    "options": [
+      "Morbus Ménière",
+      "Labyrintit",
+      "Vestibularisneurit",
+      "Godartad lägesyrsel",
+      "Carotisstenos"
+    ],
+    "answer": "Godartad lägesyrsel"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 67,
+    "question": "Albumin är ett plasmaprotein med flera olika funktioner. Vilken är albumins viktigaste funktion? Välj ett alternativ:",
+    "options": [
+      "Underlätta normal blodkoagulation",
+      "Inhibera serinproteaser",
+      "Skydda mot hemoglobins oxidativa verkan",
+      "Upprätthålla det kolloidosmotiska trycket",
+      "Transportera järn"
+    ],
+    "answer": "Upprätthålla det kolloidosmotiska trycket"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 68,
+    "question": "Ett vanligt prov är sänkningsreaktionen (B-SR). Vad är sänkningsreaktion främst ett mått på? Välj ett alternativ:",
+    "options": [
+      "Mängd stora, positivt laddade, proteiner i plasma",
+      "Andel granulocyter i relation till totala antalet leukocyter",
+      "Viral infektion",
+      "Erytrocyternas storlek och storleksvariation",
+      "Nutritionsstatus de sista veckorna"
+    ],
+    "answer": "Mängd stora, positivt laddade, proteiner i plasma"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 69,
+    "question": "Arne, 75 år gammal, kommer till akutmottagningen med sin fru Vera. Arne har minskat 8 kg i vikt det senaste halvåret och Vera är orolig för sin make då hon märkt att han är gulfärgad i ögonen och har dålig aptit. Arne är för övrigt helt frisk sedan tidigare frånsett en galloperation vid 50-års ålder. När du undersöker Arne finner du att han mycket riktigt har ikterus och är avmagrad. De prover du tar visar att han har en stasikterus med bland annat P-bilirubin på 120 µmol/L (referens <26). Du lägger in Arne och bestämmer dig för att göra en utredning av Arnes ikterus.\n\nVilken undersökning bör göras först?\nVälj ett alternativ:",
+    "options": [
+      "Ultraljud",
+      "Endoskopisk retrograd cholangio pancreaticografi",
+      "Positron Emissions Tomografi-kamera",
+      "Datortomografi buk/pankreas",
+      "Gastroskopi"
+    ],
+    "answer": "Endoskopisk retrograd cholangio pancreaticografi"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 70,
+    "question": "Prognosen vid intrakraniella tumörer skiljer sig åt.\n\nVilken av nedanstående diagnoser uppvisar SÄMST prognos i överlevnadstid?\nVälj ett alternativ:",
+    "options": [
+      "Glioblastom",
+      "Konvexitetsmeningiom",
+      "Akustikusneurinom",
+      "Hypofysadenom",
+      "Låggradigt astrocytom"
+    ],
+    "answer": "Glioblastom"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 71,
+    "question": "En 80-årig man med hypertoni insjuknar vid frukostbordet med huvudvärk och vänstersidig hemipares. Symptomen utvecklas inom cirka 30 minuter. Vilken diagnos är den mest sannolika? Välj ett alternativ:",
+    "options": [
+      "Subduralt hematom",
+      "Epiduralhematom",
+      "Intracerebralt hematom",
+      "Intraventrikulärt hematom",
+      "Subaraknoidalblödning"
+    ],
+    "answer": "Intracerebralt hematom"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 72,
+    "question": "En 20-årig man inkommer medvetslös till akutmottagningen efter att ha krockat med sin bil. Han har en uppenbar skada mot huvudet. När du undersöker patienten observerar du en dilaterad ljusstel pupill på höger sida. Du misstänker en inklämningsattack (herniering). Vilken av nedanstående akuta åtgärder är kontraindicerad? Välj ett alternativ:",
+    "options": [
+      "Lätt hypoventilation",
+      "Lätt höjd huvudända",
+      "Mannitoladministration",
+      "Lätt hyperventilation",
+      "Intubering"
+    ],
+    "answer": "Lätt hypoventilation"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 73,
+    "question": "Vilken är den vanligaste kliniska tillämpningen av PET/CT? Välj ett alternativ:",
+    "options": [
+      "11C-Acetat PET för att påvisa ökad lipidmetabolism",
+      "18F-FDG PET för att påvisa ökad glukosmetabolism",
+      "68Ga-DOTATOC PET för utredning av neuroendokrina tumörer",
+      "15O-vatten PET för att påvisa ökad blodcirkulation",
+      "18F-FET PET för att påvisa recidiv av hjärntumör"
+    ],
+    "answer": "18F-FDG PET för att påvisa ökad glukosmetabolism"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 74,
+    "question": "invalid",
+    "options": [
+      "invalid"
+    ],
+    "answer": "invalid"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 75,
+    "question": "Skador på tractus corticospinalis (pyramidbanan) kan orsakas av blodpropp i kärl. I vilket av nedanstående kärl kan en propp ge symptom från pyramidbanan? Välj ett alternativ:",
+    "options": [
+      "A. carotis externa",
+      "A. communicans anterior",
+      "A. vertebralis",
+      "A. meningea media",
+      "A. spinalis posterior"
+    ],
+    "answer": "A. spinalis posterior"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 76,
+    "question": "Vid radiologisk utredning av akut buk är det vanligt att man använder datortomografi (DT). Det finns många olika sorters undersökningar och frågeställningen är en viktig faktor när man väljer vilken sorts DT man ska utföra. Vid vilken av dessa frågeställningar är DT buköversikt mest lämplig radiologisk metod att utreda patienten med? Välj ett alternativ:",
+    "options": [
+      "Ileus",
+      "Pyelonefrit",
+      "Aortadissektion",
+      "Appendicit",
+      "Cholecystit"
+    ],
+    "answer": "Ileus"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 77,
+    "question": "En 44-årig kvinna genomgår en total hysterektomi för smärtsamma muskelknutor (leiomyom). Äggstockarna kommer inte att tas bort under proceduren. Vilket av följande ligament måste bevaras? Välj ett alternativ:",
+    "options": [
+      "lig. transversum cervicis/cardinale",
+      "lig. teres uteri",
+      "lig. rectouterinum",
+      "lig. suspensorium ovarii",
+      "lig. ovarii proprium"
+    ],
+    "answer": "lig. ovarii proprium"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 78,
+    "question": "En 37-årig man har karcinom i huden på glans-penis. Till vilka av följande lymfknutor kan cancercellerna sannolikt spridas direkt? Välj ett alternativ:",
+    "options": [
+      "Nodi iliaci interni",
+      "Nodi inguinales superficiales",
+      "Nodi iliaci externi",
+      "Nodi iliaci communes",
+      "Nodi aortici laterales"
+    ],
+    "answer": "Nodi inguinales superficiales"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 79,
+    "question": "En 32-årig patient med flera frakturer i bäckenet har ingen känsel i huden i den urogenitala triangeln. Vilka av följande nerver är mest troligt påverkade? Välj ett alternativ:",
+    "options": [
+      "N. coccygeus och n. obturatorius accessorius",
+      "N. cutenious femoris lateralis och n. gluteus superior",
+      "N. iliohypogastricus och n. obturatorius",
+      "N. ilioinguinalis och n.pudendus",
+      "N. musculi levatoris ani och n. femoralis"
+    ],
+    "answer": "N. ilioinguinalis och n.pudendus"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 80,
+    "question": "Du undersöker ett nyfött, fullgånget barn på barnbördavdelningen. Ortolanis test utfaller tydligt positivt. Vilken remiss bör du utfärda? Välj ett alternativ:",
+    "options": [
+      "Halvakut remiss till ortoped",
+      "Akut remiss till neurokirurg",
+      "Remiss till öronläkare",
+      "Remiss för magnetresonanstomografi-undersökning",
+      "Akut remiss till barnkardiolog"
+    ],
+    "answer": "Halvakut remiss till ortoped"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 81,
+    "question": "På en badplats, kl 14 en dag i juli, har en 68-årig badande man just ramlat ihop på stranden. Han visar inga livstecken då han vänds på rygg. Du hör hur en person bredvid håller på att ringa till SOS. Vilken är bästa nästa åtgärd? Välj ett alternativ:",
+    "options": [
+      "Kontrollera pupiller inkl ljusreaktion",
+      "Kontrollera carotispuls",
+      "Smärtstimulera för att säkerställa grad av medvetslöshet",
+      "Gör 5 inblåsningar",
+      "Gör 30 hjärtkompressioner"
+    ],
+    "answer": "Gör 30 hjärtkompressioner"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 82,
+    "question": "En patient som behandlas palliativt för koloncancer kommer till akuten med buksmärtor, illamående och kräkningar. Du misstänker att han har drabbats av ileus. Patienten behandlas i vanliga fall med T. morfin depot 60 mg × 2 men får nu inte behålla varken mat eller tabletter/kapslar. Du behöver ordinera smärtstillande då han graderar sin smärta till 8 på VAS. Vilken dos morfin bör du ordinera att ges subkutant eller intravenöst? Välj ett alternativ:",
+    "options": [
+      "2,5 mg",
+      "15 mg",
+      "5 mg",
+      "20 mg",
+      "10 mg"
+    ],
+    "answer": "10 mg"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 83,
+    "question": "Tina försöker bli gravid med sin partner Kalle och undrar hur man kan veta att man har ägglossning. Hon har regelbundna menstruationer. Vilket är det säkraste sättet att verifiera att en 28 dagar lång menstruationscykel är ovulatorisk? Välj ett alternativ:",
+    "options": [
+      "Vaginalt ultraljud av ovarierna dag 17",
+      "S-progesteron dag 21",
+      "S-estradiol dag 12",
+      "U-HCG dag 8",
+      "S-AMH dag 14"
+    ],
+    "answer": "S-progesteron dag 21"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 84,
+    "question": "Mona har sökt vård på kvinnokliniken för ökande behåring på överläppen, magen och runt bröstvårtorna. Hon får diagnosen PCOS (polycystiskt ovarialsyndrom) och rekommenderas östrogenprofilerade p-piller som behandling mot sin hirsutism. Vilken effekt av etinylestradiol förklarar att p-piller minskar behåring av manlig typ? Välj ett alternativ:",
+    "options": [
+      "Blockerar testosteroneffekten i hårsäckarna",
+      "Sänker totala mängden S-testosteron i blodet",
+      "Höjer S-SHBG (sex-hormone binding globuline)",
+      "Ökar prolaktinutsöndringen från hypofysen",
+      "Ökar levermetabolismen av steroidhormon"
+    ],
+    "answer": "invalid"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 85,
+    "question": "Gravida kvinnors blodtryck kontrolleras upprepade gånger inom mödrahälsovården i syfte att tidigt identifiera kvinnor som utvecklar hypertonisjukdom under graviditeten. Ett viktigt tillstånd att detektera under graviditet är preeklampsi. Vilket av följande påståenden är mest korrekt när det gäller gravida som utvecklar preeklampsi? Välj ett alternativ:",
+    "options": [
+      "Huvudvärk vid preeklampsi beror oftast på högt blodtryck",
+      "Rökning är en riskfaktor för att utveckla preeklampsi",
+      "Embryo-donation ger minskad risk för preeklampsi",
+      "Preeklampsi kan botas med korrekt hypertonibehandling",
+      "Gravida med preeklampsi får oftare tillväxthämmade barn"
+    ],
+    "answer": "Gravida med preeklampsi får oftare tillväxthämmade barn"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 86,
+    "question": "Gustav, 67 år, har kommit till akuten med ambulans. Han hade arbetat med vedpallar hemma på sin gård då en av vedpallarna välte över honom så att han hamnade under och blev fastklämd från midjan och neråt. Vedpallarna har en metallkorg med staplad ved och väger minst 200 kg och har måtten 0,8 × 1,2 × 1,2 m. Hans son Arvid som såg olyckan kunde med hjälp av traktor lyfta bort vedpallen inom några minuter och sedan ringa ambulansen. Vid ankomsten till akutmottagningen ~30 minuter efter olyckan är Gustav vaken men pratar osammanhängande och klagar på smärta i nedre delen av buken och bäckenet. Hans puls är 120 slag/minut och blodtryck 100/60 mmHg. Andningsfrekvens är 28/minut. Han känns kall i händer och fötter. Vad är den sannolika förklaringen till att Gustav pratar osammanhängande? Välj ett alternativ:",
+    "options": [
+      "Gustav är påverkad av alkohol eller droger.",
+      "Den starka smärtan i kroppen gör Gustav arg.",
+      "Gustav har hög ålder och är sannolikt dement.",
+      "Hypovolemin gör Gustav konfusorisk.",
+      "Den allmänna uppståndelsen och stressen i situationen gör Gustav upprörd."
+    ],
+    "answer": "Hypovolemin gör Gustav konfusorisk."
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 87,
+    "question": "Inom det medicinska arbets- och forskningsfältet används terminologi som är internationell och har en specifik betydelse. Vad menas med termen klinisk prövning (clinical trial)? Välj ett alternativ:",
+    "options": [
+      "undersökning som jämför klinisk och pre-klinisk metod på frivilliga försökspersoner",
+      "undersökning som bara kan göras i kliniskt laboratorium under strikt kontrollerade förhållanden",
+      "undersökning som avser att fastställa för- och nackdelar med en ny metod för diagnostik, profylax eller behandling",
+      "undersökning som utsätter patienterna för en fysiskt eller mentalt hård prövning",
+      "undersökning av rättsmedicin som prövar skadeutfall för olika traumamekanismer"
+    ],
+    "answer": "undersökning som avser att fastställa för- och nackdelar med en ny metod för diagnostik, profylax eller behandling"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 88,
+    "question": "En 55-årig man som större delen av arbetstiden monterar innertak har nu drabbats av axelsmärta, med diagnosen rotatorkuffsyndrom. Vilken rekommendation är bäst? Välj ett alternativ:",
+    "options": [
+      "En längre tids sjukskrivning och kortisoninjektion, därefter återgång till arbetet",
+      "Ansökan om sjukersättning på halvtid",
+      "Omskolning till kontorsarbete",
+      "Styrketräning och farmakologisk behandling (ibuprofen)",
+      "Kortare sjukskrivning i kombination med fysioterapi samt minskat axelbelastande arbete vid återgång till arbetet"
+    ],
+    "answer": "Kortare sjukskrivning i kombination med fysioterapi samt minskat axelbelastande arbete vid återgång till arbetet"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 89,
+    "question": "Vad är intermediärfilament i en hemidesmosom länkade till?",
+    "options": [
+      "Kollagen",
+      "Bindvävsceller",
+      "Epitelceller",
+      "Extracellulär matrix",
+      "Glykosaminoglykaner"
+    ],
+    "answer": "Epitelceller"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 90,
+    "question": "Vilken signalsubstans binder till en celltyereceptor?",
+    "options": [
+      "kortisol",
+      "aldosteron",
+      "tyreoideahormon",
+      "adrenalin",
+      "östrogen"
+    ],
+    "answer": "adrenalin"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 91,
+    "question": "Var finns ribosomer hos djurceller?",
+    "options": [
+      "Enbart i cytoplasman",
+      "Enbart i cellkärnan",
+      "Både i cellkärnan och på det endoplasmatiska retiklet",
+      "Enbart i cytosolen",
+      "Både i cytosolen och på det endoplasmatiska retiklet"
+    ],
+    "answer": "Både i cytosolen och på det endoplasmatiska retiklet"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 92,
+    "question": "Akut strålbehandling på grund av cancersjukdom är ovanligt men förekommer. Vilken är den vanligaste indikationen för akut strålbehandling inom onkologin? Välj ett alternativ:",
+    "options": [
+      "Medullakompression där möjlighet till kirurgi inte föreligger",
+      "Tumörer som växer i anslutning till luftröret",
+      "Smärtande skelettmetastas",
+      "Tumöroverväxt på tarm med efterföljande ileustillstånd",
+      "Metastaser i hjärnan"
+    ],
+    "answer": "Medullakompression där möjlighet till kirurgi inte föreligger"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 93,
+    "question": "Undersökning av en patient avslöjade åldersnormal motorisk funktion men förlust av smärta, termiska, vibrerande och diskriminerande beröringsupplevelser på ena sidan av kroppen exklusive huvudet. Förlusten av smärt- och temperatursinne hos denna patient kan bero på en skada i vilken av följande strukturer? Välj ett alternativ:",
+    "options": [
+      "Tractus trigeminothalamicus anterior",
+      "Lemniscus lateralis",
+      "Nucleus spinalis nervi trigemini",
+      "Lemniscus medialis",
+      "Tractus spinothalamicus"
+    ],
+    "answer": "Tractus spinothalamicus"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 94,
+    "question": "Bradford-Hills kausalitetskriterier används för att bedöma huruvida ett orsakssamband mellan exponering och hälsoeffekt är verkligt. Vilket av följande kriterier motsvarar INTE ett av Bradford-Hills kausalitetskriterier: Välj ett alternativ:",
+    "options": [
+      "Samstämmighet med liknande studier",
+      "Temporalitet",
+      "Dos-respons-samband",
+      "Sambandets styrka",
+      "Randomiserat kontrollerat försök"
+    ],
+    "answer": "Randomiserat kontrollerat försök"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 95,
+    "question": "Bröstcancer är den vanligaste cancersjukdomen hos svenska kvinnor. Vilken cancersjukdom är den vanligaste dödsorsaken hos svenska kvinnor? Välj ett alternativ:",
+    "options": [
+      "Malignt melanom",
+      "Lungcancer",
+      "Koloncancer",
+      "Bröstcancer",
+      "Ovarialcancer"
+    ],
+    "answer": "Lungcancer"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 96,
+    "question": "Kalle, 54 år, är överviktig med nydiagnostiserad diabetes som behandlades med T. metformin. Vid tre mätningar över 2 månader är blodtrycket 140–145/90–95 mmHg. Laboratorieprover (referensintervall): U-albumin/krea-kvot varierar mellan 4-6 g/mol (<3,0) eGFR 85 mL/min/1,73 m² (>60) Vad bör du göra nu? Välj ett alternativ:",
+    "options": [
+      "Byta T. metformin till T. dapagliflozin",
+      "Påbörja blodtrycksbehandling med T. enalapril",
+      "Avvakta livsstilsförändring över 3–6 veckor innan beslut om eventuell medicinändring",
+      "Påbörja blodtrycksbehandling med T. metoprolol",
+      "Avvakta livsstilsförändring över 3–6 månader innan beslut om eventuell medicinändring"
+    ],
+    "answer": "Påbörja blodtrycksbehandling med T. enalapril"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 97,
+    "question": "Du ska bedöma suicidrisken hos en 67-årig man. Patienten berättar att han inte har några planer på att ta sitt liv, men att han ibland kan känna att det vore behagligare att slippa leva. Hur bör du skriva om suicidaliteten i patientens journal?",
+    "options": [
+      "Patienten beskriver passiva dödstankar",
+      "Patienten beskriver aktiva suicidtankar",
+      "Patienten har ingen suicidalitet",
+      "Patienten är suicidbenägen",
+      "Patienten beskriver akut suicidalitet"
+    ],
+    "answer": "Patienten beskriver passiva dödstankar"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 98,
+    "question": "Du ska bedöma psykisk status hos en 34-årig kvinna och frågar patienten om hon haft några ovanliga upplevelser, till exempel sett eller hört något som andra inte kunnat uppfatta? Patienten berättar då att hon kan känna frid och harmoni när hon vistas ute i naturen, särskilt om hon är i en stor skog och det susar i träden. Patienten berättar också att hennes sambo inte alls upplever detta när han är i skogen, han tycker snarast det är obehagligt att vara där. Hur skriver du om patientens upplevelser i hennes journal?",
+    "options": [
+      "Patientens upplevelse är inte symtom på psykisk sjukdom och behöver inte beskrivas",
+      "Patienten beskriver gränspsykotiska symtom",
+      "Patientens stämningsläge är förhöjt",
+      "Patienten beskriver extranormala upplevelser, till exempel vid vistelse i skogen",
+      "Patienten beskriver hörselhallucinationer"
+    ],
+    "answer": "Patientens upplevelse är inte symtom på psykisk sjukdom och behöver inte beskrivas"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 99,
+    "question": "Eva har skurit sig i pekfingret och upplever att känseln i fingrets radieella sida har försvunnit. Nervskadan repareras kirurgiskt på en handkirurgisk klinik. Med vilken hastighet växer nervtrådar ut (regenererar) efter en kirurgiskt reparerad nervskada? Välj ett alternativ:",
+    "options": [
+      "1 mm/vecka",
+      "10 mm/dygn",
+      "1 mm/dygn",
+      "50 mm/dygn",
+      "100 mm/dygn"
+    ],
+    "answer": "1 mm/dygn"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 100,
+    "question": "Axelleden har en grund ledpanna vilket gör att luxationer i denna led är vanliga. Efter en axelluxation (art humeri ur led) har patienten i efterförloppet mycket svårt att röra sin axel bland annat nedsatt abduktion. Det hela tolkas som en följd av en nervskada. Vilken? Välj ett alternativ:",
+    "options": [
+      "n. ulnaris",
+      "n. medianus",
+      "n. axillaris",
+      "n. radialis",
+      "n. musculocutaneus"
+    ],
+    "answer": "n. axillaris"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 101,
+    "question": "Du träffar en patient på akutmottagningen som du bedömer har ett othematom. Vilken åtgärd är viktigast att utföra då en patient söker med othematom? Välj ett alternativ:",
+    "options": [
+      "Lugnande besked, ingen åtgärd behövs",
+      "Lägga in patienten med medvetandekontroller",
+      "Beställa datortomografi huvud",
+      "Inboka för operation om 1-2 veckor då svullnaden har lagt sig",
+      "Evakuera blod mellan brosk och perikondrium"
+    ],
+    "answer": "Evakuera blod mellan brosk och perikondrium"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 102,
+    "question": "Genetisk prägling är en naturlig process, men flertalet sjukdomar orsakas av, eller är relaterade till, felaktig genetisk prägling. Vilket av följande påståenden stämmer bäst in på genetisk prägling? Välj ett alternativ:",
+    "options": [
+      "Uttrycket av vissa gener beror på vilket kön en individ har",
+      "Prägling under fosterstadiet resulterar i irreversibla förändringar av DNA-sekvensen i vissa gener",
+      "Uttrycket av vissa gener beror på vilken av föräldrarna de ärvs ifrån",
+      "Omgivningsfaktorer under vår livstid resulterar i irreversibla förändringar av DNA-sekvensen i vissa gener",
+      "Prägling under fosterstadiet resulterar i epigenetiska förändringar i vissa gener"
+    ],
+    "answer": "Uttrycket av vissa gener beror på vilken av föräldrarna de ärvs ifrån"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 103,
+    "question": "Många läkemedel som används idag (som till exempel fenoximetylpenicillin och acetylsalicylsyra) har utformats för att påverka enzymers funktion genom inhibering av enzymets aktivitet. Vilket av följande alternativ om enzyminhibering är mest korrekt? Välj ett alternativ:",
+    "options": [
+      "Reversibla inhibitorer kan förstöra essentiella aminosyror i enzymers allosteriska site",
+      "Irreversibel inhibering är en temporär inhibering av enzymet",
+      "Irreversibel inhibering kan förstöra essentiella aminosyror i enzymet",
+      "Reversibla inhibitorer denaturerar enzymer",
+      "Reversibla inhibitorer ökar enzymers katalytiska förmåga"
+    ],
+    "answer": "Irreversibel inhibering kan förstöra essentiella aminosyror i enzymet"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 104,
+    "question": "Virus har antingen DNA eller RNA som arvsmassa. Vilka av följande tre virus har samtliga DNA som arvsmassa? Välj ett alternativ:",
+    "options": [
+      "Hepatit A virus, hepatit B virus, hepatit C virus",
+      "RS-virus, norovirus, rotavirus",
+      "Poxvirus, polyomavirus, papillomvirus",
+      "Rhinovirus, adenovirus, mässlingsvirus",
+      "Coronavirus, influensavirus, HIV"
+    ],
+    "answer": "Poxvirus, polyomavirus, papillomvirus"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 105,
+    "question": "Vid auskultation av lungorna är det viktigt att känna till deras ytprojektioner och anatomiska begränsningar. Vid vilket revben går den nedre lunggränsen posteriort (i linea scapularis), det vill säga var slutar lungorna nedtill på ryggsidan? Välj ett alternativ:",
+    "options": [
+      "Costa VI",
+      "Costa VII",
+      "Costa IV",
+      "Costa X",
+      "Costa XIII"
+    ],
+    "answer": "Costa X"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 106,
+    "question": "Det är viktigt att känna till anatomin för lymfdränage, bland annat för att det är spridningsväg av såväl infektioner som maligniteter. Den vanligaste cancerformen hos kvinnor är bröstcancer. Till vilken lymfkörtelstation dräneras en majoritet (ca 75%) av lymfan från kvinnans bröst? Välj ett alternativ:",
+    "options": [
+      "Nodi lymphatici parasternales",
+      "Nodi lymphatici cervikales",
+      "Nodi lymphatici axillares",
+      "Nodi lymphatici tracheobronchiales",
+      "Nodi lymphatici mediastinales"
+    ],
+    "answer": "Nodi lymphatici axillares"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 107,
+    "question": "Människoceller har två separata DNA-genom, varav ett ligger i cellkärnan. Var i cellen finns det andra genomet? Välj ett alternativ:",
+    "options": [
+      "I proteasomen",
+      "I endoplasmatiskt retikulum (ER)",
+      "I mitokondrien",
+      "I ribosomen",
+      "I peroxisomen"
+    ],
+    "answer": "I mitokondrien"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 108,
+    "question": "Hormoner som insulin och glukagon reglerar kroppens energiomsättning. Hur bör förhöjda halter av glukagon påverka energiomsättningen? Välj ett alternativ:",
+    "options": [
+      "Stimulera nedbrytning av leverglykogen",
+      "Inhibera beta-oxidation",
+      "Inhibera syntes av ketonkroppar",
+      "Stimulera aminosyrasyntes i muskeln",
+      "Inhibera lipolys i adiposvävnaden"
+    ],
+    "answer": "Stimulera nedbrytning av leverglykogen"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 109,
+    "question": "Under graviditet leder 20-40 % av obehandlad asymtomatisk bakteriuri (ABU) till pyelonefrit. Vilket av följande påståenden är korrekt under graviditet? Välj ett alternativ:",
+    "options": [
+      "Påvisad glukos i urinprovet kan vara tecken på ABU och indicerar urinodling",
+      "En episod av ABU är indikation för antibiotikaprofylax under resten av graviditeten",
+      "Vid ökade flytningar under graviditet bör urinodling kontrolleras",
+      "Efter antibiotikabehandling av ABU bör urinodling tas på nytt",
+      "Vid fynd av bakterier i urinodlingen är antibiotikabehandling alltid aktuell"
+    ],
+    "answer": "Efter antibiotikabehandling av ABU bör urinodling tas på nytt"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 110,
+    "question": "Mödrahälsovården (MHV) i Sverige ska vara både kostnadseffektiv och jämlik för alla oavsett bostadsort och ekonomiska förutsättningar. Vilket av följande stämmer bäst för mödrahälsovården i Sverige? Välj ett alternativ:",
+    "options": [
+      "På barnmorskemottagningar erbjuds vård och råd enbart för gravida",
+      "Rutinultraljudsundersökningar är en viktig del av arbetet på MHV:s barnmorskemottagningar",
+      "Minst ett besök på MHV under graviditet är en förutsättning för att få föräldrapenning",
+      "Barnmorskan tar själv hand om kontroller av en normal graviditet",
+      "Besöksavgiften på MHV är anpassad till patientens inkomstnivå"
+    ],
+    "answer": "Barnmorskan tar själv hand om kontroller av en normal graviditet"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 111,
+    "question": "invalid",
+    "options": [
+      "invalid"
+    ],
+    "answer": "invalid"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 112,
+    "question": "Du träffar en 27-årig kvinna för uppföljning av typ 1 diabetes som debuterade vid 19 års ålder. Hon har haft medelgod glukosmetabol kontroll (HbA1c kring 65 mmol/mol) och har inga kända komplikationer förutom lindrig retinopati vid senaste ögonbottenundersökningen. De senaste månaderna har hon varit mera aptitlös och gått ned några kilo i vikt. Hon har känt sig trött och orkeslös och upplevt yrsel vid uppresning. I anslutning till detta har hon haft betydligt fler hypoglykemier än vanligt och minskat sina insulindoser av både långverkande och måltidsinsulin med ca 25 %.\nLaboratorieprover (referensvärden):\nB-HbA1c 51 mmol/mol (27-42)\nP-Na 131 mmol/L (137-145)\nP-K 4,7 mmol/L (3,5-4,4)\nP-Kreatinin 87 mmol/L (45-90)\nS-TSH 3,9 mIU/L (0,24-4,2)\nVilken bakomliggande orsak till minskat insulinbehov måste du i första hand utesluta?",
+    "options": [
+      "Alkoholmissbruk",
+      "Addisons sjukdom",
+      "Celiaki",
+      "Diabetesnefropati",
+      "Hypotyreos"
+    ],
+    "answer": "Addisons sjukdom"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 113,
+    "question": "Du har utrett en patient med kliniskt stark misstanke om Cushings syndrom. Du har tagit en noggrann läkemedelsanamnes och inget bruk av exogena glukokortikoider har framkommit.\nProvtagnings med salivkortisol kl. 23, kort dexametasonhämningstest och dU-kortisol bekräftar hyperkortisolism som vid Cushings syndrom.\nVilket är nästa steg i utredningen av patientens tillstånd?",
+    "options": [
+      "Datortomografi thorax och buk",
+      "Magnetresonanstomografi hypofys",
+      "P-ACTH",
+      "ACTH-test (synacthen®-test)",
+      "Sinus petrosus-kateterisering"
+    ],
+    "answer": "Magnetresonanstomografi hypofys"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 114,
+    "question": "Slemhinnan i bihålorna har både likheter och olikheter jämfört med den i näskaviteten. Vilken typ av epitel har vi i bihålorna? Välj ett alternativ:",
+    "options": [
+      "Olfaktoriskt epitel",
+      "Enkelt cylinderepitel med cilier",
+      "Lågt kubiskt epitel med cilier",
+      "Flerskiktat platt epitel",
+      "Respiratoriskt epitel"
+    ],
+    "answer": "Respiratoriskt epitel"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 115,
+    "question": "Vi har tre större salivproducerande spottkörtlar. Saliven innehåller många proteiner och andra ämnen som främst skyddar tänder och munhåla. Vad kännetecknar histologin för den största typen av spottkörtel? Välj ett alternativ:",
+    "options": [
+      "Nästan helt serös + långa striated ducts + långa intercalated ducts",
+      "Nästan helt mukös + långa striated ducts + korta intercalated ducts",
+      "Nästan helt mukös + långa striated ducts + långa intercalated ducts",
+      "Nästan helt serös + långa striated ducts + korta intercalated ducts",
+      "Nästan helt serös + korta striated ducts + korta intercalated ducts"
+    ],
+    "answer": "Nästan helt serös + långa striated ducts + långa intercalated ducts"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 116,
+    "question": "Delar av vårt beteende har vi lärt in genom betingning. Vid klassisk betingning lär vi oss att associera en viss respons till ett givet stimulus, medan vid operant betingning lär vi oss att favorisera ett visst beteende i en given situation om detta tidigare har visat sig fördelaktigt. Vilket av följande stämmer bäst när det gäller vilka strukturer som primärt ansvarar för respektive typ av betingning? Välj ett alternativ:",
+    "options": [
+      "Klassisk betingning: cortex cerebri; Operant betingning: basala ganglierna",
+      "Klassisk betingning: cerebellum; Operant betingning: basala ganglierna",
+      "Klassisk betingning: cerebellum; Operant betingning: cortex cerebri",
+      "Klassisk betingning: basala ganglierna; Operant betingning: cerebellum",
+      "Klassisk betingning: cortex cerebri; Operant betingning: cerebellum"
+    ],
+    "answer": "Klassisk betingning: cerebellum; Operant betingning: basala ganglierna"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 117,
+    "question": "Arbetsminnet hjälper oss att lagra och bearbeta den information som vi behöver för att lösa våra uppgifter just för stunden. Vilket av följande påståenden stämmer bäst med rådande föreställningar kring arbetsminnets underliggande fysiologiska mekanismer? Välj ett alternativ:",
+    "options": [
+      "Neuron i associativa barkområden förändrar sin excitabilitet för att upprätthålla arbetsminnet",
+      "Neuron i prefrontalcortex upprätthåller cellaktivitet som bevarar informationen i arbetsminnet.",
+      "Bestående synaptiska förändringar i hippocampus ansvarar för att upprätthålla arbetsminnet",
+      "Bestående synaptiska förändringar i hjärnbarken ansvarar för att upprätthålla arbetsminnet",
+      "Hippocampus aktiverar sensoriska barkområden vilket leder till bestående synaptiska förändringar som bevarar informationen i arbetsminnet"
+    ],
+    "answer": "Neuron i prefrontalcortex upprätthåller cellaktivitet som bevarar informationen i arbetsminnet."
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 118,
+    "question": "Många som drabbats av stroke får i det initiala skedet sväljproblem (dysfagi). Vilken av följande kranialnerver innerverar större delen av svalgets muskler? Välj ett alternativ:",
+    "options": [
+      "N. vagus",
+      "N. accessorius",
+      "N. facialis",
+      "N. trigeminus",
+      "N. hypoglossus"
+    ],
+    "answer": "N. vagus"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 119,
+    "question": "Miljön i mag-tarmkanalens olika delar påverkas av vilka sekret som tillförs från olika typer av körtlar. Mukösa körtlar återfinns i mag-tarmkanalens submucosa. I vilken del av mag-tarmkanalen? Välj ett alternativ:",
+    "options": [
+      "Jejunum",
+      "Duodenum",
+      "Ileum",
+      "Ventriculus",
+      "Colon"
+    ],
+    "answer": "Duodenum"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 120,
+    "question": "Olika lymfatiska organ kan ibland vara svåra att skilja i mikroskopet. Vilket lymfatiskt organ har så kallade Hassallska kroppar? Välj ett alternativ:",
+    "options": [
+      "Mjälte",
+      "Lymfknuta",
+      "Benmärg",
+      "Tonsill",
+      "Thymus"
+    ],
+    "answer": "Thymus"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 121,
+    "question": "Det finns flera indikationer för benspecifik behandling och varje patient måste bedömas för sig. Nedan följer fem patienter:\n\n1. Kvinna, 78 år gammal, med höftfraktur och njursvikt. Bentäthet ej mätt.\n2. Man med kotfraktur och osteopeni. T-score -1,8.\n3. Kvinna med handledsfraktur och FRAX på 20 %.\n4. Man, 81 år gammal med FRAX på 33 %. Njursvikt.\n5. Man, 78 år gammal med kotfrakturer efter fall från stege.\n\nVilken eller vilka av ovanstående patienter har en stark indikation för benspecifik behandling? Välj ett alternativ:",
+    "options": [
+      "Patient 2 och 4",
+      "Patient 1, 2 och 3",
+      "Patient 2",
+      "Alla patienter utom 5",
+      "Patient 1, 2 och 4"
+    ],
+    "answer": "Patient 1, 2 och 4"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 122,
+    "question": "Du har 3 patienter. Alla är 73 år gamla och har drabbats av polymyalgia reumatica och förväntas äta höga doser kortison (>5 mg Prednisolon peroralt) under minst 6 månader. En är kvinna och två är män. Alla har osteopeni men ej osteoporos. Du räknar fram ett kreatinin-clearence som är 25 för ena mannen (lågt) och normalt för kvinnan och andra mannen. För vem eller vilka finns stark indikation för att påbörja benspecifik behandling? Välj ett alternativ:",
+    "options": [
+      "För kvinnan och mannen med normal njurfunktion",
+      "För ingen",
+      "För alla",
+      "För kvinnan",
+      "För mannen med låg njurfunktion"
+    ],
+    "answer": "För kvinnan och mannen med normal njurfunktion"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 123,
+    "question": "En 22-årig kvinna kommer till akutmottagningen efter att ha haft ett anfall med medvetandeförlust, muskelkramper i hela kroppen och urinavgång. Hon har börjat med ett nytt läkemedel för tre veckor sedan. Vilket av följande läkemedel är starkast förknippat med ökad risk för epileptiska anfall? Välj ett alternativ:",
+    "options": [
+      "Tramadol",
+      "Warfarin",
+      "Sertralin",
+      "Citalopram",
+      "Morfin"
+    ],
+    "answer": "Tramadol"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 124,
+    "question": "Du ska göra lumbalpunktion (LP) på en patient. Några procent av patienter drabbas efteråt av huvudvärk, \"post-LP huvudvärk\". Vilket påstående om post-LP huvudvärk saknar vetenskapligt stöd? Välj ett alternativ:",
+    "options": [
+      "Post-LP huvudvärk kan behandlas med epidural blood-patch",
+      "Risk för post-LP huvudvärk minskar om du väljer en tunnare nål",
+      "Risk för post-LP huvudvärk minskar om du väljer en atraumatisk nål",
+      "Risk för post-LP huvudvärk minskar om patienten får ligga ned i 4 timmar efter LP",
+      "Typiskt för post-LP huvudvärk är att den är lägesberoende"
+    ],
+    "answer": "Risk för post-LP huvudvärk minskar om patienten får ligga ned i 4 timmar efter LP"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 125,
+    "question": "En 70-årig man kommer till akutmottagningen på grund av en minneslucka som varade i två timmar tidigare under dagen. Vad i sjukhistorien stärker främst din misstanke om att det rört sig om en transitorisk global amnesi (TGA)? Välj ett alternativ:",
+    "options": [
+      "Anamnes på liknande episoder tidigare",
+      "Patienten ställde samma fråga gång på gång under attacken",
+      "Patienten beskriver samtidiga synhallucinationer",
+      "Anamnes på feberkramper i barndomen",
+      "Förekomst av staccato-tal innan amnesin"
+    ],
+    "answer": "Patienten ställde samma fråga gång på gång under attacken"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 126,
+    "question": "Hur gör cellerna i spottkörteln för att bilda muköst sekret? Välj ett alternativ:",
+    "options": [
+      "Cellerna dör och innehållet från cellerna läcker ut via så kallad holokrin utsöndring vilket bildar ett muköst sekret.",
+      "Cellerna syntetiserar protein som kovalent kopplas till en lipid och förankras i plasmamembranet. Sedan utsöndras detta protein genom att delar av membranet knoppas av vilket skapar ett muköst sekret.",
+      "Cellerna producerar stora mängder triglycerider (fetter) som utsöndras och bildar muköst sekret.",
+      "Cellerna syntetiserar och utsöndrar enzymer som bryter ner proteiner i munhålan vilket skapar ett muköst sekret.",
+      "Cellerna syntetiserar protein som glykosyleras med kolhydrater för att sedan utsöndras via exocytos som ett muköst sekret."
+    ],
+    "answer": "Cellerna syntetiserar protein som glykosyleras med kolhydrater för att sedan utsöndras via exocytos som ett muköst sekret."
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 127,
+    "question": "Vilken mekanism i cellen kan på effektivaste sätt flytta en stor mängd lipider mellan membranen i två olika organeller? Välj ett alternativ:",
+    "options": [
+      "Transport genom specifika transportproteiner som sedan möjliggör diffusion i cytosolen mellan två organeller.",
+      "Direkt kontaktyta mellan två olika organeller där lipider kan transporteras från det ena membranet till det andra.",
+      "Fri diffusion i cytosolen mellan två organeller.",
+      "Lipider bryts ner och byggs ihop i cellen och byggstenarna transporteras via fri diffusion i cytosolen. På varje organell finns sedan enzymer för att syntetisera liper av olika slag.",
+      "Vesikeltrafik där en membranvesikel som bildas från en organell tar med sig lipider till en annan organell där den smälter samman med denna."
+    ],
+    "answer": "Vesikeltrafik där en membranvesikel som bildas från en organell tar med sig lipider till en annan organell där den smälter samman med denna."
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 128,
+    "question": "Proteiner bär med sig sin egen sorteringssignal för att transporteras till rätt ställe i cellen. Var kommer ett membranprotein som translateras in i endoplasmatiska retiklet att slutligen hamna om det saknar ytterligare sorteringssignal? Välj ett alternativ:",
+    "options": [
+      "Transporteras vidare till Golgi och stannar där eftersom det inte har någon annan sorteringssignal",
+      "Transporteras direkt till lysosomen för nedbrytning",
+      "Stannar kvar i endoplasmatiska retiklet",
+      "Exporteras ut ur endoplasmatiska retiklet och hamnar i cytosolen",
+      "Transporteras vidare till Golgi för att sedan transporteras ut till cellytan"
+    ],
+    "answer": "Transporteras vidare till Golgi för att sedan transporteras ut till cellytan"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 129,
+    "question": "Enzymet Hexokinas används för att fosforylera glukos till glukos-6-fosfat via reaktionen glukos + ATP ↔ glukos-6-fosfat + ADP I det här fallet är jämvikten förskjuten långt till produkthållet (åt höger). För att katalysera baklängesreaktionen används i levern enzymet glukos-6-fosfatas. Varför används inte hexokinas för att katalysera baklängesreaktionen? Välj ett alternativ:",
+    "options": [
+      "Det finns för lite ADP i cellen för att driva reaktionen åt andra hållet",
+      "Jämvikten är förskjuten så långt till höger att enbart väldigt små mängder glukos skulle bildas",
+      "För att driva baklängesreaktionen krävs GTP, vilket inte finns i levern",
+      "Produkterna binder för bra till hexokinas och gör så att baklängesreaktionen blir för långsam",
+      "Enzymer kan bara driva en reaktion åt ett håll, och kan inte göra baklängesreaktioner"
+    ],
+    "answer": "Jämvikten är förskjuten så långt till höger att enbart väldigt små mängder glukos skulle bildas"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 130,
+    "question": "Olof, 68 år, får en GnRH-agonist var 3:e månad för att behandla en skelettmetastaserande prostatacancer. I vilket organ utövar detta läkemedel primärt sin effekt? Välj ett alternativ:",
+    "options": [
+      "Bitestiklarna",
+      "Hypothalamus",
+      "Binjurarna",
+      "Hypofysen",
+      "Testiklarna"
+    ],
+    "answer": "Hypofysen"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 131,
+    "question": "Transkription är en viktig process för att förstå hur gener uttrycks till proteiner i celler. Vilket av följande är normalt ett substrat för RNA-polymeras under transkription? Välj ett alternativ:",
+    "options": [
+      "dUDP",
+      "UMP",
+      "UTP",
+      "dUTP",
+      "UDP"
+    ],
+    "answer": "UTP"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 132,
+    "question": "Stina är 55 år gammal och icke-rökare. Hon har varit frisk fram tills för ett år sedan då hon råkade ut för en ful underbensfraktur som gipsbehandlades under en längre tid. Efter några veckors gipsbehandling konstaterades bilaterul lungemboli. Stina behandlades med apixaban i tre månader. Hon kommer nu på grund av uttalad andfåddhet, som sakta blivit värre sedan några månader. EKG visar sinusrytm och högerställd el-axel, för övrigt ses inget anmärkningsvärt. Förnyad datortomografi pulmonalis angiografi visar ingen säker lungemboli.\n\nVad är den mest troliga diagnosen?\nVälj ett alternativ:",
+    "options": [
+      "Kronisk lungemboli",
+      "Mitralisinsufficiens",
+      "Kroniskt obstruktiv lungsjukdom",
+      "Aortastenos",
+      "Hjärtsvikt"
+    ],
+    "answer": "Kronisk lungemboli"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 133,
+    "question": "invalid",
+    "options": [
+      "invalid"
+    ],
+    "answer": "invalid"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 134,
+    "question": "invalid",
+    "options": [
+      "invalid"
+    ],
+    "answer": "invalid"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 135,
+    "question": "En 75-årig icke-rökande kvinna med mångårig hypertoni och förmaksflimmer söker vård på grund av andfåddhet vid gång i trappa. Du beställer ekokardiografi, NTproBNP, spirometri, lungröntgen och EKG.\n\nNTproBNP är måttligt förhöjt (kring 500), EKG visar förutom förmaksflimmer vänsterkammarhypertrofi, spirometri visar lätt obstruktivitet och lungröntgen är utan anmärkning. Ekokardiografi påvisar högt tryck i lilla kretsloppet på cirka 50 mmHg.\n\nEtt förhöjt tryck i lilla kretsloppet är ett vanligt fynd och orsakerna kan vara många.\n\nVad är den troligaste orsaken i detta fall?\nVälj ett alternativ:",
+    "options": [
+      "Diastolisk dysfunktion",
+      "Mitralisstenos",
+      "Kroniskt obstruktiv lungsjukdom",
+      "Pulmonell arteriell hypertoni",
+      "Kronisk lungemboli"
+    ],
+    "answer": "Kronisk lungemboli"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 136,
+    "question": "Aminosyrorna i våra proteiner har olika egenskaper.\n\nVilken av följande aminosyror är positivt laddad?\nVälj ett alternativ:",
+    "options": [
+      "Arginin",
+      "Asparagin",
+      "Leucin",
+      "Glutamin",
+      "Alanin"
+    ],
+    "answer": "Arginin"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 137,
+    "question": "Huvuddelen av all icke-kirurgisk eliminering av cancerceller baseras på aktivering av cancercellsdöd. Vilket av följande läkemedel fungerar istället genom att aktivera utdifferentiering av tumörcellerna? Välj ett alternativ:",
+    "options": [
+      "doxorubicin",
+      "cisplatin",
+      "fluorouracil",
+      "PD1-antikropp",
+      "all-trans-retinolsyra (ATRA)"
+    ],
+    "answer": "all-trans-retinolsyra (ATRA)"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 138,
+    "question": "Flera radiologiska metoder kan användas för att lokalisera en lungförändring. Inför val av biopsimetod är det av stor vikt att en förändring är korrekt lokaliserad. Vilken av följande undersökningar bör användas i första hand vid lokalisation/utredning av lungtumörer? Välj ett alternativ:",
+    "options": [
+      "Datortomografi thorax",
+      "Perfusions- och ventilationslungscintigrafi med SPECT",
+      "Ultraljud thorax",
+      "Lungröntgen",
+      "Magnetresonanztomografi thorax"
+    ],
+    "answer": "Datortomografi thorax"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": 139,
+    "question": "Flera olika radiologiska modaliteter kan nyttjas vid undersökning av huvudet. Vilken metod kan bäst påvisa intrakraniella förkalkningar? Välj ett alternativ:",
+    "options": [
+      "T2-viktad MR-sekvens",
+      "Kontrastförstärkt datortomografi",
+      "Ultraljud",
+      "Ej kontrastförstärkt datortomografi",
+      "T1-viktad MR-sekvens"
+    ],
+    "answer": "Ej kontrastförstärkt datortomografi"
+  }
+]

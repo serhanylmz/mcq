@@ -1,0 +1,3 @@
+openai
+PyMuPDF
+python-dotenv
