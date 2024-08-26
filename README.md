@@ -11,6 +11,7 @@ This Python script extracts multiple-choice questions from PDF files using OpenA
 
 ## Sample data row: 
 
+```json
 {
   "language": "sv",
   "country": "Sweden",
@@ -31,6 +32,7 @@ This Python script extracts multiple-choice questions from PDF files using OpenA
   ],
   "answer": "A. TSH"
 }
+```
 
 By automating the extraction process, it saves significant time and effort compared to manual transcription.
 
@@ -58,7 +60,7 @@ By automating the extraction process, it saves significant time and effort compa
 
 ## Usage
 
-Run the script with the following command:
+1. Use `pdf_parser.py` to extract questions from PDF files:
 ```
 python pdf_parser.py -d /path/to/pdf/directory -l language
 ```
@@ -71,3 +73,62 @@ or if you have specified the default language and directory:
 python pdf_parser.py
 ```
 The script will process all PDF files in the specified directory and save the extracted questions as JSON files in the `pdfs/mcq` subdirectory.
+
+2. Clean the extracted data using `pdf_cleaner.py`:
+   ```python
+   # In pdf_cleaner.py
+   INPUT_FILE = "pdfs/mcq/your_input_file.json"
+   OUTPUT_FILE = "pdfs/mcq/cleaned_output_file.json"
+   EXCLUDE_NUMBERS = [90, 91, 94, 118, 125, 128]  # Adjust as needed
+   
+   # Run the script
+   python pdf_cleaner.py
+   ```
+
+3. Merge cleaned JSON files using `merge_json_files.py`:
+   ```python
+   # In merge_json_files.py
+   INPUT_FOLDER = "checked"
+   OUTPUT_FILE = "merged_dataset.json"
+   
+   # Run the script
+   python merge_json_files.py
+   ```
+### Publishing to Hugging Face
+
+To publish the dataset to Hugging Face, use the `publish_to_huggingface.py` script:
+
+1. Log in to Hugging Face from the terminal:
+   ```
+   huggingface-cli login
+   ```
+
+2. Set up your Hugging Face token as an environment variable:
+   ```
+   export HF_TOKEN=your_token_here
+   ```
+
+3. Update the `publish_to_huggingface.py` script with your details:
+   ```python
+   INPUT_FILE = "merged_dataset.json"
+   DATASET_NAME = "swedish-medical-exam-mcqs"
+   DATASET_DESCRIPTION = "Multiple-choice questions from Swedish medical exams"
+   YOUR_USERNAME = "your_huggingface_username"
+   ```
+
+4. Run the script:
+   ```
+   python publish_to_huggingface.py
+   ```
+
+After running the script, your dataset will be available on Hugging Face at:
+https://huggingface.co/datasets/your_username/swedish-medical-exam-mcqs
+
+## Usage
+
+You can load this dataset using the Hugging Face `datasets` library:
+
+```python
+from datasets import load_dataset
+dataset = load_dataset("your_username/swedish-medical-exam-mcqs")
+```
