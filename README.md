@@ -43,7 +43,6 @@ By automating the extraction process, it saves significant time and effort compa
    ```
 
 2. Create a virtual environment (optional but recommended):
-    # using conda: 
     ```
     conda create -n mcq python=3.10
     ```
