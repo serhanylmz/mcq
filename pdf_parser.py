@@ -19,20 +19,23 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def parse_gpt_output(response):
-    # Regular expressions to match question, choices, and answer
+    # Regular expressions to match question number, question, choices, and answer
+    question_num_pattern = r'<question_number>(.*?)</question_number>'
     question_pattern = r'<question>(.*?)</question>'
     choices_pattern = r'<choices>(.*?)</choices>'
     answer_pattern = r'<answer>(.*?)</answer>'
 
     # Find all matches
+    question_nums = re.findall(question_num_pattern, response, re.DOTALL)
     questions = re.findall(question_pattern, response, re.DOTALL)
     choices = re.findall(choices_pattern, response, re.DOTALL)
     answers = re.findall(answer_pattern, response, re.DOTALL)
 
     # Process the results
     parsed_data = []
-    for q, c, a in zip(questions, choices, answers):
+    for qn, q, c, a in zip(question_nums, questions, choices, answers):
         # Strip whitespace and split choices into a list
+        question_num = qn.strip()
         question = q.strip()
         choice_list = [choice.strip() for choice in c.strip().split('\n') if choice.strip()]
         answer = a.strip()
@@ -44,6 +47,7 @@ def parse_gpt_output(response):
             answer = 'invalid'
 
         parsed_data.append({
+            'question_number': question_num,
             'question': question,
             'choices': choice_list,
             'answer': answer
@@ -53,10 +57,10 @@ def parse_gpt_output(response):
 
 pre_prompt = """Extract the multiple-choice questions from the attached image, maintaining the Swedish language in which they appear. Follow these guidelines:
 
-1. Enclose the full question text within `<question></question>` tags.
-2. List all answer choices within `<choices></choices>` tags, with each choice on a new line.
-3. If a correct answer is indicated, enclose it within `<answer></answer>` tags.
-4. Do not include question numbers in your extraction.
+1. Enclose the question number within `<question_number></question_number>` tags.
+2. Enclose the full question text within `<question></question>` tags.
+3. List all answer choices within `<choices></choices>` tags, with each choice on a new line.
+4. If a correct answer is indicated, enclose it within `<answer></answer>` tags.
 5. Include the full question with any context provided before the actual question.
 
 Special Cases:
@@ -65,6 +69,7 @@ Special Cases:
 - For questions containing visual elements (graphs, charts, images, etc.), use `<question>invalid</question>`, `<choices>invalid</choices>`, and `<answer>invalid</answer>`.
 
 Output Format:
+<question_number>Question number</question_number>
 <question>Full question text in Swedish</question>
 <choices>
 Choice 1
@@ -136,7 +141,6 @@ def process_pdf(pdf_file, dir_path, client, language):
     print(f"Parsing file: {pdf_file}")
     pdf_document = fitz.open(os.path.join(dir_path, pdf_file))
     results = []
-    question_num = 1
 
     # Ensure the imgs folder exists
     imgs_folder = os.path.join(dir_path, "imgs")
@@ -190,13 +194,12 @@ def process_pdf(pdf_file, dir_path, client, language):
                     "level": "graduate",
                     "category_en": "Medicine",
                     "category_original_lang": "Medicin",
-                    "original_question_num": question_num,
+                    "original_question_num": item['question_number'],
                     "question": item['question'],
                     "options": item['choices'],
                     "answer": item['answer'],
                 }
                 results.append(new_row)
-                question_num += 1
             print(f"Questions extracted: {len(parsed_data)}")
 
         except openai.BadRequestError:
