@@ -88,22 +88,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "5",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "6",
     "question": "En man i 75-årsåldern, frisk i övrigt, inkommer akut med ambulans från en trafikolycka med klar misstanke om instabil bäckenfraktur. Vid undersökning vill du helt utesluta en traumatisk, urologisk skada. Du inspekterar och palperar njurloger och yttre genitalia utan anmärkning. Vid rektal-palpationen (utöver normal sfinktertonus) så noterar du att prostatan verkar vara flyttad och inte är riktigt på plats. Dessutom noterar du, strax innan KAD-sättning, färskt blod vid meatus urethra. I övrigt är patienten cirkulatoriskt stabil.\n\nVilken är de mest troliga diagnosen?\nVälj ett alternativ:",
     "options": [
@@ -534,26 +518,6 @@
       "Cyklin/Cyklinberoende kinas (CDK)"
     ],
     "answer": "Cyklin/Cyklinberoende kinas (CDK)"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "28",
-    "question": "Anna, 78 år, kommer till sin hälsocentral eftersom hon har fått en halvsidig huvudvärk som hon inte känner igen. Hon har inte känt sig helt frisk de senaste veckorna och gått ner ett par kg i vikt. Hon har även känt sig lite febrig.\n\nLaboratorieprover (referensvärden)\n\nSR 63 mm/h (< 30)\n\nHb 118 g/L (117-153)\n\nTPK 420x10⁹/L (165-387)\n\nUrinprovet var utan avvikelser.\n\nDu misstänker en specifik reumatologisk sjukdom.\n\nVilket symptom är det mest relevanta att fråga om?\nVälj ett alternativ:",
-    "options": [
-      "Hosta",
-      "Synbortfall",
-      "Hudutslag",
-      "Muskelsvaghet",
-      "Bröstsmärta"
-    ],
-    "answer": "Synbortfall"
   },
   {
     "language": "sv",
@@ -1044,26 +1008,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "53",
-    "question": "En 17-årig pojke besväras under dagen av obehag och en dov värk i navelområdet. På kvällen ökar besvären och hans pappa bestämmer sig för att ta honom till akutmottagningen. Han har feber (38 °C) och blodprovet visar en ökning av antalet vita blodkroppar. Vid anamnestagningen avslöjar patienten att smärtan nu är lokaliserad vid nedre högra kvadranten av buken. Vad orsakar smärtvandringen vid en blindtarmsinflammation? Välj ett alternativ:",
-    "options": [
-      "Buksmärtor är inte väl lokaliserade och patienternas smärtkänslor varierar subjektivt",
-      "Inflammation i blindtarmsbihanget leder till långa reflexer som leder till ökad peristaltik i tjocktarmen",
-      "Inflammation i blindtarmsbihanget leder till långa reflexer som leder till ökad peristaltik i ileum",
-      "Inflammation i blindtarmsbihanget påverkar först lymfkörtlarna i ileum och sprider sig sedan till appendix vermiformis",
-      "Inflammationen i blindtarmsbihanget påverkar först tarmarna och sprider sig senare till parietala peritoneum"
-    ],
-    "answer": "Inflammationen i blindtarmsbihanget påverkar först tarmarna och sprider sig senare till parietala peritoneum"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "54",
     "question": "En 69-årig kvinna har buksmärta, en svulst i vänster ljumske och smärta i benet vid gång. Hon diagnostiseras med en retroperitoneal abscess sekundärt till divertikulit. Vilket tarmavsnitt hade mest troligt drabbats av divertikulit? Välj ett alternativ:",
     "options": [
@@ -1154,22 +1098,6 @@
       "Ger ingen respons"
     ],
     "answer": "Ger en respons"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "59",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
   },
   {
     "language": "sv",
@@ -1350,26 +1278,6 @@
       "Mellannålsbiopsi av tyreoideatumören"
     ],
     "answer": "Högersidig hemityreoidektomi"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "69",
-    "question": "En 55-årig kvinna inkommer till akutmottagningen med värk under höger arcus och temp 37,8 °C. Hon har haft ont i 1 dygn och vid undersökning så finner du att hon spänner vid palpation under höger arcus. Du gör ett ultraljud som visar en gallblåsa med ödematös vägg. Gallblåsan innehåller ett flertal små stenar. Hennes bilirubin är måttligt förhöjt. Hur handlägger du bäst patienten? Välj ett alternativ:",
-    "options": [
-      "Öppen kolecystektomi.",
-      "Datortomografi buk och tar upp patientfallet på en multidisciplinär konferens.",
-      "ERCP (endoscopic retrograde cholangiopancreatography) med sfinkterotomi och extraktion av förmodade stenar i gallgången.",
-      "Injicerar diklofenak och skickar hem patienten. Planerat återbesök för operation om cirka 10-14 dagar.",
-      "Inläggning för operation med laparoskopisk kolecystektomi samt beredskap för peroperativ ERCP (endoscopic retrograde cholangiopancreatography)."
-    ],
-    "answer": "Inläggning för operation med laparoskopisk kolecystektomi samt beredskap för peroperativ ERCP (endoscopic retrograde cholangiopancreatography)."
   },
   {
     "language": "sv",
@@ -1740,42 +1648,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "88",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "89",
-    "question": "Du misstänker att din patient har en striktur i urinröret. För att diagnostisera och kartlägga strikturen remitterar du patienten till röntgen. Vid den undersökning patienten ska genomgå fylls urinröret med kontrast via en kateter vid urinrörsmynningen. Bilden nedan är ett exempel på undersökningen. Vad heter denna undersökning? Välj ett alternativ:",
-    "options": [
-      "Cystografi",
-      "Cystometri",
-      "Retrograd urethrografi",
-      "Retrograd pyelografi",
-      "Antegrad pyelografi"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "90",
     "question": "Efter en öppen bukhysterektomi har patienten tappat känseln i huden över främre delen av låret och kan inte sträcka ut underbenet. Vilken nerv har skadats av sårhaken som används för att hålla bukhålan öppen? Välj ett alternativ:",
     "options": [
@@ -1826,26 +1698,6 @@
       "Foramen ovale"
     ],
     "answer": "Foramen ovale"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "93",
-    "question": "Om en ny smittsam virussjukdom uppträder i en population så kan den spridas under lång tid. Så småningom slutar virusinfektionen spridas i populationen och då säger man att flockimmunitet (herd immunity) har uppstått. Vad är flockimmunitet? Välj ett alternativ:",
-    "options": [
-      "Tillräckligt många människor överför virus, så att den smittsamma sjukdomen inte kan spridas.",
-      "Tillräckligt många människor är immuna, så att den smittsamma sjukdomen inte kan spridas.",
-      "Tillräckligt många människor är smittsamma.",
-      "Tillräckligt många människor samlas i en flock, så att den smittsamma sjukdomen inte kan spridas.",
-      "Tillräckligt många människor är immunsupprimerade, så att den smittsamma sjukdomen inte kan spridas."
-    ],
-    "answer": "Tillräckligt många människor är immuna, så att den smittsamma sjukdomen inte kan spridas."
   },
   {
     "language": "sv",
@@ -1946,26 +1798,6 @@
       "Uterussarkom"
     ],
     "answer": "Ovarialcancer"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "99",
-    "question": "Inom det medicinska arbets- och forskningsfältet används terminologi som är internationell och har en specifik betydelse. Vad innebär att en studie är blindad? Välj ett alternativ:",
-    "options": [
-      "blindade behandlande läkare och patienter har företräde i studien och kan komma snabbare till behandling",
-      "behandlande läkare får ej veta om patienten är med i studien men vet vilken behandling som ges",
-      "behandlande läkare och patient får inte veta hur många patienter som är med i studien men båda vet vilken behandling patienten får",
-      "patienten får inte veta om hen är med i studien men vet vilka behandlingar som prövas i studien",
-      "patienten får under studiens gång inte veta vilken av behandlingarna som hen får av behandlingar som prövas i studien"
-    ],
-    "answer": "patienten får under studiens gång inte veta vilken av behandlingarna som hen får av behandlingar som prövas i studien"
   },
   {
     "language": "sv",
@@ -2156,26 +1988,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "109",
-    "question": "Leif är 70 år och har haft en hjärtinfarkt. Han behandlas mot hjärtsvikt och förmaksflimmer. Han har aldrig rökt men exponerats för asbest. Röntgen av lungorna visar lungcystor och Leif har nu genomfört en spirometri:\nMätt\tVärde\t% av förväntat värde\nTotal lungkapacitet (TLC)\t7,83 L\t108\nForcerad vitalkapacitet (FVC)\t3,90 L\t114\nForcerad expiratorisk volym på 1 sekund (FEV1)\t2,87 L\t110\nFEV1/FVC\t0,72\t102\n\nVad visar hans spirometri?\nVälj ett alternativ:",
-    "options": [
-      "Ingen lungfunktionsinskränkning",
-      "Nedsatt diffusionskapacitet",
-      "Kombinerad obstruktiv och restriktiv lungfunktionsinskränkning",
-      "Obstruktiv lungfunktionsinskränkning",
-      "Restriktiv lungfunktionsinskränkning"
-    ],
-    "answer": "Ingen lungfunktionsinskränkning"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "110",
     "question": "Patientens totala lungkapacitet är 5 liter, tidalvolym 0,5 liter, inspiratoriska reservvolym 3 liter och expiratoriska reservvolym 1 liter. Vad är patientens residualvolym? Välj ett alternativ:",
     "options": [
@@ -2246,22 +2058,6 @@
       "Pneumokock"
     ],
     "answer": "BCG"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "114",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
   },
   {
     "language": "sv",
@@ -2612,26 +2408,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "132",
-    "question": "Vid vilken av dessa cancersjukdomar skall cytostatika INTE användas på grund av dålig/bristande effekt? Välj ett alternativ:",
-    "options": [
-      "Njurcancer",
-      "Testikelcancer",
-      "Lymfom",
-      "Bröstcancer",
-      "Kolorektalcancer"
-    ],
-    "answer": "Njurcancer"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "133",
     "question": "Translation är den process i cellerna där ribosomerna använder mRNA för att bygga protein. Hur långt protein, mätt i antal aminosyror, kan maximalt teoretiskt bildas från ett mRNA som är 180 ribonukleotider långt? Tänk på att mRNAt måste innehålla start- och stopp-kodon. Välj ett alternativ:",
     "options": [
@@ -2642,22 +2418,6 @@
       "60 aminosyror"
     ],
     "answer": "59 aminosyror"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "134",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
   },
   {
     "language": "sv",
@@ -2758,21 +2518,5 @@
       "Exanthema subitum och Kawasakis sjukdom"
     ],
     "answer": "Kawasakis sjukdom och scarlatina"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "211130-delprov-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "140",
-    "question": "För att avbilda kroppens organ används inom radiologin ett flertal olika modaliteter. Vilken modalitet har använts i denna bild?",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
   }
 ]

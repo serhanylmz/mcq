@@ -17,8 +17,8 @@ The dataset is in Swedish (sv).
 ## Dataset Structure
 
 Each entry in the dataset contains the following fields:
-- question: The text of the question
-- options: A list of possible answers
+- question: The question
+- options: An array of possible answers
 - answer: The correct answer
 - language: The language of the question (always "sv" for Swedish)
 - country: The country of origin (always "Sweden")
@@ -33,4 +33,9 @@ Each entry in the dataset contains the following fields:
 
 ### Source Data
 
-The questions were extracted from Swedish medical exam papers.
+The questions were extracted from Swedish medical exam papers. Each instance in the file contains relevant information to see where the question is from. 
+
+The questions here are a collection of the Swedish medical exams between 2020-02-10 and 2022-05-24.
+
+All questions here have been obtained from the official website of Umeå University. 
+Link: https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/

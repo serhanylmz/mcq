@@ -688,22 +688,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "35",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "delprov-preklinisk-och-klinisk-del-2020-09-10---med-svar.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "36",
     "question": "En 25-årig kvinna har noterat en mjuk svullnad under munbotten, höger sida på halsen, som debuterat den senaste veckan. Den blir större vid måltid och ömmar då. Sedan minskar den men försvinner inte helt och blir sedan större igen vid nästa måltid.\n\nNär du undersöker och palperar i munbotten, vad upptäcker du mest sannolikt?",
     "options": [
@@ -1084,42 +1068,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "55",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "delprov-preklinisk-och-klinisk-del-2020-09-10---med-svar.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "56",
-    "question": "En obehandlad diabetiker får inte bara onormalt förhöjt B-glukos efter en måltid utan även förhöjt P-K+. Varför?",
-    "options": [
-      "A. En glukosberoende osmolalitetsstörning leder till utflöde av K+ från ICV till ECV",
-      "B. De har minskad aktivitet i renin-angiotensin-systemet",
-      "C. Bristande aldosteroninsöndring",
-      "D. Avsaknad av insulin-beroende stimulering av Na+-K+-ATPAs",
-      "E. Deras njurar eliminerar inte K+ från ECV i tillräcklig omfattning"
-    ],
-    "answer": "D. Avsaknad av insulin-beroende stimulering av Na+-K+-ATPAs"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "delprov-preklinisk-och-klinisk-del-2020-09-10---med-svar.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "57",
     "question": "En ovanlig, tidigt debuterande sjukdom beror av en autosomalt dominant gen med full penetrans. Ett par, där den ena föräldern är frisk och den andra sjuk och heterozygot för sjukdomsgenen, väntar sitt andra barn. Deras första barn har ärvt sjukdomen. Vad är sannolikheten att deras andra barn blir friskt?",
     "options": [
@@ -1370,22 +1318,6 @@
       "E. Psykogen smärta"
     ],
     "answer": "A. Neuropatisk smärta"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "delprov-preklinisk-och-klinisk-del-2020-09-10---med-svar.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "70",
-    "question": "Ett ineliggande barn med asfyxi genomgår en radiologisk undersökning av hjärnan. Vilket anatomiskt plan är avbildat?",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
   },
   {
     "language": "sv",
@@ -1806,26 +1738,6 @@
       "E. Ribosomer som använder tRNA som mall"
     ],
     "answer": "A. Ribosomer som använder mRNA som mall"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "delprov-preklinisk-och-klinisk-del-2020-09-10---med-svar.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "92",
-    "question": "Kännedom om den alveolära gasekvationen är nödvändig för att korrekt evaluera patienters lungfunktion vid sänkt partialtryck för syrer i arteriellt blod (pₐO₂). Vad är det som kan bedömas med hjälp av denna ekvation?",
-    "options": [
-      "A. Hur mycket O₂ som transporteras över patientens alveolväggar",
-      "B. Hur mycket CO₂ som transporteras över patientens alveolväggar",
-      "C. Om uppmätt pₐO₂ matchar patientens alveolära ventilation",
-      "D. Hur mycket O₂ patienten behöver tillföras i inandningsluften",
-      "E. Patientens effektiva alveolära ventilation"
-    ],
-    "answer": "C. Om uppmätt pₐO₂ matchar patientens alveolära ventilation"
   },
   {
     "language": "sv",
@@ -2396,22 +2308,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "123",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "delprov-preklinisk-och-klinisk-del-2020-09-10---med-svar.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "124",
     "question": "Sonja är gravid med tvillingar, 31 graviditetsveckor. Hon har fått veta att hälften av alla kvinnor som bär tvillingar föder för tidigt (det vill säga <37 + 0). Hon har också hört att man kan ge kortison vid hotande prematur förlossning men undrar varför det ges. Vad är syftet med att behandla med kortison vid hotande prematur förlossning?",
     "options": [
@@ -2582,26 +2478,6 @@
       "E. Lågt kubiskt epitel + saknar brosk + seromukösa körtlar + elastisk vävnad"
     ],
     "answer": "B. Respiratoriskt epitel + saknar brosk + glattmuskulatur + elastisk vävnad"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "delprov-preklinisk-och-klinisk-del-2020-09-10---med-svar.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "133",
-    "question": "Vid främre rhinoskopi ser du följande i höger cavum nasi. Vilken diagnos är mest trolig?",
-    "options": [
-      "A. Hypertrof adenoid",
-      "B. Concha bullosa",
-      "C. Allergisk rhinit",
-      "D. Näspolypos",
-      "E. Akut maxillarsinuit"
-    ],
-    "answer": "invalid"
   },
   {
     "language": "sv",

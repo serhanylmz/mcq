@@ -68,6 +68,22 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
+    "original_question_num": "4",
+    "question": "invalid",
+    "options": [
+      "invalid"
+    ],
+    "answer": "invalid"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
     "original_question_num": "5",
     "question": "En man i 75-årsåldern, frisk i övrigt, inkommer akut med ambulans från en trafikolycka med klar misstanke om instabil bäckenfraktur. Vid undersökning vill du helt utesluta en traumatisk, urologisk skada. Du inspekterar och palperar njurloger och yttre genitalia utan anmärkning. Vid rektal-palpationen så noterar du (utöver normal sfinktertonus) att prostatan verkar vara flyttad och inte är riktigt på plats. Dessutom noterar du, strax innan KAD-sättning, färskt blod vid meatus urethra. Patienten är cirkulatoriskt stabil.\n\nVad är den mest lämpliga akuta åtgärden?\nVälj ett alternativ:",
     "options": [
@@ -178,6 +194,26 @@
       "Glykolysen"
     ],
     "answer": "Glykolysen"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": "11",
+    "question": "Basera på strukturen, vad skulle man tänka sig att remdesivir hämmar i coronaviruset? Välj ett alternativ:",
+    "options": [
+      "Kapsidhopsättningen",
+      "RNA-syntesen",
+      "DNA-syntesen",
+      "Omvänt transkriptas",
+      "Värdcellsbindningen"
+    ],
+    "answer": "RNA-syntesen"
   },
   {
     "language": "sv",
@@ -528,6 +564,26 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
+    "original_question_num": "29",
+    "question": "Cirka 2-3 procent av nyfödda barn har någon form av sjukdom, skada eller missbildning inklusive kromosomförändring.\n\nVilket av följande tillstånd hos den gravida kvinnan innebär störst risk för fostermissbildning? Välj ett alternativ:",
+    "options": [
+      "Ulcerös colit",
+      "Akut fettlever",
+      "Psykisk ohälsa",
+      "Hypertoni",
+      "Fetma"
+    ],
+    "answer": "invalid"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
     "original_question_num": "30",
     "question": "Vaccination kan ibland bli aktuell hos en gravid kvinna. Riskerna med vaccination under graviditet anses låga, men måste värderas mot nyttan av att skydda den gravida och hennes foster mot infektion.\n\nMot vilken virusinfektion rekommenderas vaccinering under graviditet? Välj ett alternativ:",
     "options": [
@@ -698,6 +754,54 @@
       "Inläggning med ordination av bredspektrumantibiotika i.v."
     ],
     "answer": "Inläggning med ordination av bredspektrumantibiotika i.v."
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": "39",
+    "question": "invalid",
+    "options": [
+      "invalid"
+    ],
+    "answer": "invalid"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": "40",
+    "question": "invalid",
+    "options": [
+      "invalid"
+    ],
+    "answer": "invalid"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": "41",
+    "question": "invalid",
+    "options": [
+      "invalid"
+    ],
+    "answer": "invalid"
   },
   {
     "language": "sv",
@@ -1068,6 +1172,26 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
+    "original_question_num": "60",
+    "question": "33-åriga Amanda kommer till akutmottagningen med afasi och är helt slapp i höger mungipa och höger arm. Höger ben är nästan slappt men hon kan föra benet lite mot underlaget.\n\nHon hittades hemma av en syster. Bedömningen är att det gått minst 7 timmar sedan hon insjuknat. Hon är somnolent (vakenhetsgraden bedöms till RLS 3) och är gravt neurologiskt påverkad (NIHSS 23). Datortomografi hjärna visar att större delar av vänster arteria cerebri medias försörjningsområde är drabbat av hjärninfarkt och att det finns viss evolukad i området.\n\nVad bör bli din nästa åtgärd?\nVälj ett alternativ:",
+    "options": [
+      "Ordinera trombolys (alteplas) utifrån kroppsvikt",
+      "Lägga in Amanda på medicinavdelning med övervakning",
+      "Lägga in Amanda på neurokirurgisk avdelning med övervakning",
+      "Lägga in Amanda på palliativ avdelning med palliativa ordinationer",
+      "Lägga in Amanda på strokeavdelning för övervakning"
+    ],
+    "answer": "Lägga in Amanda på neurokirurgisk avdelning med övervakning"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
     "original_question_num": "61",
     "question": "En 82-årig kvinna är sedan tidigare diagnosticerad med hypertoni och hyperlipidemi. Hon har dessutom ett warfarinbehandlat förmaksflimmer och har haft en hjärtinfarkt för fem år sedan. För två veckor sedan slog hon huvudet rejält i en skåplucka i köket när hon lagade mat. Hon var inte avsvimmad. Efter det har hennes make märkt att hon betett sig avvikande. Hon, som i vanliga fall är mycket skärpt mentalt med utmärkt minne, har gjort upprepade saker fel och sagt konstiga saker. När maken väl bestämde sig för att beställa tid hos hälsocentralen hade däremot allt blivit normalt igen och därför besökte de aldrig hälsocentralen. Men de följande dagarna vänder hon på dygnet så att hon sover på dagarna och är vaken på nätterna. Det har blivit allt värre och minnet har också försämrats men det kan trots det finnas stunder på dagen då allt är som förut. Hon har ätit och druckit som hon ska och kunnat sköta urin och avföring som vanligt. Hon bejakar en lätt huvudvärk. Det som gör att paret nu akut kontaktat hälsocentralen är att kvinnan plötsligt såg spindlar på väggarna fast det inte fanns några där.\n\nDin statusundersökning visar inget avvikande avseende hjärta, lungor, buk eller neurologi. Det föreligger ingen ortostatism. Hon har dock svårt att fokusera på samtalet vid besöket.\n\nVilket utredningsförslag är att föredra i detta skede?\nVälj ett alternativ:",
     "options": [
@@ -1078,6 +1202,26 @@
       "Datortomografi (CT) av hjärnan"
     ],
     "answer": "Datortomografi (CT) av hjärnan"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": "62",
+    "question": "Bertil, 55 år gammal, kommer till akutmottagningen för plötsligt påkommen mycket svår global huvudvärk. Han beskriver att huvudvärken kom som en blixt från klar himmel i samband med att han skottade snö för 55 minuter sedan. Huvudvärken kvarstår men har avtagit något när du träffar honom. Neurologisk undersökning visar inga avvikelser.\n\nVilket av nedanstående är korrekt om utredningen av åskknallshuvudvärk?\nVälj ett alternativ:",
+    "options": [
+      "Om huvudvärken går över av sig självt behövs ingen radiologisk utredning.",
+      "Det hade inte haft någon betydelse för utredningen om det var så att Bertil hade haft nytillkommen pares i höger arm.",
+      "Normalfynd vid datortomografi skalle inom 6 timmar efter insjuknandet räcker för att utesluta subaraknoidalblödning.",
+      "Det behövs en lumbalpunktion för att utesluta subaraknoidalblödning.",
+      "En datortomografi-angiografi är nödvändig för att utesluta subaraknoidalblödning."
+    ],
+    "answer": "Normalfynd vid datortomografi skalle inom 6 timmar efter insjuknandet räcker för att utesluta subaraknoidalblödning."
   },
   {
     "language": "sv",
@@ -1388,6 +1532,26 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
+    "original_question_num": "78",
+    "question": "En patient har ryggmärgsskada på segmentnivå C7 i det märkta området på bilden nedan. Ange vilket av följande symptom som patienten troligtvis uppvisar? Välj ett alternativ:",
+    "options": [
+      "Bortfall av smärta och temperatur i vänster arm",
+      "Spastisk pares i höger ben",
+      "Bortfall av vibrationskänsel i höger ben",
+      "Bortfall av vibrationskänsel i höger arm",
+      "Spastisk pares i höger arm"
+    ],
+    "answer": "Bortfall av vibrationskänsel i höger ben"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
     "original_question_num": "79",
     "question": "En patient har en skada på vänster sidas tractus opticus. Vilken typ av synfältsbortfall förväntas patienten uppvisa? Välj ett alternativ:",
     "options": [
@@ -1398,6 +1562,26 @@
       "Vänster sidas synfält i båda ögonen"
     ],
     "answer": "Höger sidas synfält i båda ögonen"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": "80",
+    "question": "Olika radiologiska metoder har olika styrkor och svagheter. Vilken av följande radiologiska undersökningsmetoder har högst sensitivitet för att diagnostisera en liten mängd fri gas i buken (pneumoperitoneum)? Välj ett alternativ:",
+    "options": [
+      "Datortomografi buk",
+      "Röntgen buköversikt stående frontal",
+      "Magnetresonanstomografi buk med iv kontrast",
+      "FDG-PET (18F-fluorid-oxyglykos-positronemissionstomografi)",
+      "Ultraljud buk"
+    ],
+    "answer": "Datortomografi buk"
   },
   {
     "language": "sv",
@@ -1878,6 +2062,26 @@
       "Prolaktinom"
     ],
     "answer": "Turners syndrom"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": "105",
+    "question": "Inom det medicinska arbets- och forskningsfältet används terminologi som är internationell och har en specifik betydelse. Vad innebär en randomisering i en studie?",
+    "options": [
+      "Man låter slumpen avgöra vem som blir behandlande läkare i studien",
+      "Man låter slumpen avgöra ordningen av data i forskningsdatabasen",
+      "Man låter slumpen avgöra vilken av de alternativa behandlingarna som patienten",
+      "Man låter slumpen avgöra när prövningen är slut",
+      "Man låter slumpen avgöra om en patient ska ingå i en studie"
+    ],
+    "answer": "Man låter slumpen avgöra vilken av de alternativa behandlingarna som patienten"
   },
   {
     "language": "sv",
@@ -2438,6 +2642,46 @@
       "Det binder kovalent till cytokrom P450-enzymer och inaktiveras"
     ],
     "answer": "Det oxideras eller spjälkas så att det får reaktiva grupper"
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": "134",
+    "question": "Det vetenskapliga stödet för effekten av disulfiram (Antabus) vid långtidsbehandling mot alkoholberoende är begränsat. Verkningsmekanismen gör det nämligen svårt att genomföra randomiserade dubbelblinda kontrollerade studier. Trots detta har disulfiram dokumenterad effekt att minska alkoholintaget när det delas ut till patienten. Vilken är disulfirams verkningsmekanism? Välj ett alternativ:",
+    "options": [
+      "Blockering av opioida μ- och δ-receptorer, samt partiell agonism vid κ-receptorer, vilket minskar behovet av inta alkohol.",
+      "Induktion av enzymet CYP2E1, vilket minskar alkoholens AUC och halveringstid.",
+      "Hämning av enzymet aldehyddehydrogenas, vilket leder till ansamling av acetaldehyd och en rad obehagliga symtom.",
+      "Svag blockering av NMDA-receptorer i hjärnans belöningssystem, vilket minskar lusten att inta alkohol.",
+      "Hämning av enzymet alkoholdehydrogenas, vilket förlänger alkoholens halveringstid och minskar behovet av förnyat alkoholintag."
+    ],
+    "answer": "Hämning av enzymet aldehyddehydrogenas, vilket leder till ansamling av acetaldehyd och en rad obehagliga symtom."
+  },
+  {
+    "language": "sv",
+    "country": "Sweden",
+    "file_name": "delprov-mcq140-2021-09-09-faststalld-rattningsmall.pdf",
+    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
+    "license": "unknown",
+    "level": "graduate",
+    "category_en": "Medicine",
+    "category_original_lang": "Medicin",
+    "original_question_num": "135",
+    "question": "Det finns välgrundad misstanke om lungcancer om en röntgenundersökning visar cancermisstänkt fynd. Detta innebär i sin tur, att utredning enligt standardiserat vårdförlopp ska erbjudas patienten, förutsatt att patienten bedöms klara av utredningen.\n\nI bildexemplen nedan finns fem olika, numrerade lungröntgenbilder (klicka på bilden för att förstora den).\n\nVilken av bilderna visar fynd som innebär välgrundad misstanke om lungcancer?",
+    "options": [
+      "Nr 3",
+      "Nr 1",
+      "Nr 5",
+      "Nr 2",
+      "Nr 4"
+    ],
+    "answer": "Nr 5"
   },
   {
     "language": "sv",

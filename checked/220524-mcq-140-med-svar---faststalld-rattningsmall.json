@@ -88,22 +88,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "5",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "6",
     "question": "Hormonreceptor kan antingen sitta på cellytan eller vara intracellulära. Detta är exempel på hormon: adrenalin insulin oxytocin progesteron tillväxthormon. Vilket av dem binder till en intracellulär receptor? Välj ett alternativ:",
     "options": [
@@ -194,26 +178,6 @@
       "Pes equinovarus"
     ],
     "answer": "Spina bifida"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "11",
-    "question": "Vi saknar så kallade antivirala läkemedel mot många virusorsakade infektioner och sjukdomar. Ett undantag är läkemedel riktade mot neuraminidas som kan användas för att behandla influensainfektioner.\n\nHur hämmar dessa läkemedel influensainfektioner?\nVälj ett alternativ:",
-    "options": [
-      "De förhindrar att neuraminidaset integrerar virusets genom i det cellulära genomet.",
-      "De förhindrar att neuraminidaset processar virala proteiner vilket hämmar hopsättningen av nya viruspartiklar.",
-      "De aktiverar neuraminidaset som då börjar inkorporera falska byggstenar i virusets genom och det förhindrar produktionen av nya viruspartiklar.",
-      "De aktiverar neuraminidaset som då klyver det virala polyproteinet i små icke-funktionella peptider vilket förhindrar hopsättningen av nya viruspartiklar.",
-      "De förhindrar att neuraminidaset klyver sialinsyra vilket hämmar spridningen av viruset eftersom de färdiga viruspartiklarna därmed klibbar fast vid cellen och inte kan lämna den."
-    ],
-    "answer": "De förhindrar att neuraminidaset klyver sialinsyra vilket hämmar spridningen av viruset eftersom de färdiga viruspartiklarna därmed klibbar fast vid cellen och inte kan lämna den."
   },
   {
     "language": "sv",
@@ -324,26 +288,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "17",
-    "question": "Att möta en patient som hyper- eller hypoventilerar är inte helt ovanligt. Vilken effekt har hyperventilation på artärblodets pO₂ (pₐO₂), syrgasmättnad och syrgasinnehåll hos en frisk person? Välj ett alternativ:",
-    "options": [
-      "pₐO₂, syrgasmättnad och syrgasinnehåll ökar alla påtagligt",
-      "minskat pₐO₂ men både syrgasmättnad och syrgasinnehåll ökar",
-      "påtagligt ökat pₐO₂ liksom syrgasmättnad men oförändrat syrgasinnehåll",
-      "ökat pₐO₂ men varken syrgasmättnad eller syrgasinnehållet ökar nämnvärt",
-      "minskat pₐO₂, minskad syrgasmättnad liksom minskat syrgasinnehåll"
-    ],
-    "answer": "ökat pₐO₂ men varken syrgasmättnad eller syrgasinnehållet ökar nämnvärt"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "18",
     "question": "Magsäcken frisätter GLP-1 (glucagon-like peptide 1) vid födointag. Vilken är den främsta funktionen av denna frisättning? Välj ett alternativ:",
     "options": [
@@ -394,26 +338,6 @@
       "Noradrenalin"
     ],
     "answer": "Serotonin"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "21",
-    "question": "Sinusarytmi är normala variationer i hjärtrytmen och har flera underliggande orsaker. Vad är den huvudsakliga förklaringen till att R-R-intervallen varierar från hjärtslag till hjärtslag? Välj ett alternativ:",
-    "options": [
-      "Vasomotion: spontana arteriella kontraktioner/relaxationer",
-      "Variationer i sympatikusutflödet",
-      "Baroreceptorreflexen",
-      "Variationer i p<sub>a</sub>CO<sub>2</sub>",
-      "Andningsrelaterade fluktuationer av in- och utflöde till thorax"
-    ],
-    "answer": "Baroreceptorreflexen"
   },
   {
     "language": "sv",
@@ -544,22 +468,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "28",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "29",
     "question": "En 4 månaders pojke kommer med sina föräldrar till akuten efter att han skrikit nästan kontinuerligt i 3 timmar och inte kan lugna sig. Du undersöker barnet och hittar en svullnad i området för höger ljumske. Övrigt status visar inga patologiska fynd. Via en öppen processus vaginalis kan en tarmslynga passera och det skulle kunna förklara pojkens tillstånd. Vad skulle en tarmslynga kunna passera igenom och därmed kunna nå?",
     "options": [
@@ -660,26 +568,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "34",
-    "question": "Kristina, 25 år, är gravid i vecka 26 och har drabbats av illamående. Hon har först behandlats med T. meklozin och även prövat använda T. prometazin + koffein + efedrin (Lergigan comp). Nu får hon recept på T. metoklopramid.\n\nVilken är metoklopramids huvudsakliga verkningsmekanism?\nVälj ett alternativ:",
-    "options": [
-      "Blockad av D₂-receptorer",
-      "Blockad av H₂-receptorer",
-      "Blockad av 5HT₃-receptorer",
-      "Blockad av H₁-receptorer",
-      "Stimulering av 5HT₂-receptorer"
-    ],
-    "answer": "Blockad av D₂-receptorer"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "35",
     "question": "Paracetamol är ett av de mest använda läkemedlen vid behandling av smärta och feber. Tyvärr så kan överdosering av detta läkemedel leda till livshotande intoxikation. Vilket läkemedel kan användas som antidot vid en paracetamol-intoxikation? Välj ett alternativ:",
     "options": [
@@ -690,22 +578,6 @@
       "glutation"
     ],
     "answer": "acetylcystein"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "36",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
   },
   {
     "language": "sv",
@@ -766,22 +638,6 @@
       "Cervixektopi"
     ],
     "answer": "Anovulation"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "40",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
   },
   {
     "language": "sv",
@@ -1432,26 +1288,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "73",
-    "question": "En 53-årig man inkommer på akutmottagningen med dyspne, hosta och feber (39,2 °C). CRP 130 mg/L (referensvärde < 5 mg/L). Pulsoximetri visar 86% saturation på rumsluft. Andningsfrekvens 20 /min. Lungröntgen visar infiltrat bilateralt. Patienten får diagnosen pneumoni och du beställer en blodgasanalys. Vilken kombination av pO₂ och pCO₂ bör du förvänta dig hos denna patient?",
-    "options": [
-      "lågt pO₂ och lågt pCO₂",
-      "lågt pO₂ och normalt pCO₂",
-      "normalt pO₂ och lågt pCO₂",
-      "normalt pO₂ och normalt pCO₂",
-      "högt pO₂ och lågt pCO₂"
-    ],
-    "answer": "lågt pO₂ och normalt pCO₂"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "74",
     "question": "Patienter med uttalad levermetastasering kan plötsligt få en kraftig akut smärta. Vilken är den mest troliga orsaken bakom detta?",
     "options": [
@@ -1482,22 +1318,6 @@
       "Konkomittant behandling"
     ],
     "answer": "Neoadjuvant behandling"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "76",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
   },
   {
     "language": "sv",
@@ -1598,26 +1418,6 @@
       "Fall-studie"
     ],
     "answer": "Kohortstudie"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "82",
-    "question": "Anna-Stava, 57 år, har opererats för bröstcancer och fick för 10 dagar sedan sin första adjuvanta cytostatikabehandling ad modum EC (epirubicin och cyklofosfamid). Hon har känt sig lite varm och har ringt avdelningen. Du kontaktar nu henne per telefon då du har kvällsjour. Hon har sedan ett par timmar temp 38,9 °C. Mår i övrigt helt bra och känner sig ganska pigg. Inga infektionstecken kommer fram. Anna-Stava bor i en by någon mil från sin hälsocentral och 6 mil från sjukhuset.\n\nVad bör du göra nu?\nVälj ett alternativ:",
-    "options": [
-      "Ordinera antibiotika, ciprofloxacin 500 mg x 2 i 10 d. Ny kontakt vid behov.",
-      "Rekommendera patienten att snarast söka närmaste akutmottagning för bedömning och provtagning.",
-      "Ombesörja kontroll av blodstatus + neutrofiler på hälsocentral. Informera primärt ansvarig läkare.",
-      "Ordinera filgrastim 0,5 ME/kg i tio dagar följt av uppföljning via kontaktsjuksköterska",
-      "Rekommendera patienten att ta kontakt med hälsocentralen i morgon bitti för bedömning."
-    ],
-    "answer": "Rekommendera patienten att snarast söka närmaste akutmottagning för bedömning och provtagning."
   },
   {
     "language": "sv",
@@ -1748,26 +1548,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "89",
-    "question": "Du träffar en 58-årig man som haft astma sedan barndomen. Han hade som barn besvär vid pälsdjursexponering, men utsätter sig inte för detta längre. Vi föregående kontroll för två år sedan försågs han med ett recept på inhalationssteroid + långverkande β2-agonist. Han tog detta tills dosen var slut men fortsatte inte med behandlingen eftersom han inte upplevde någon förbättring. Han tar kortverkande β2-agonist med god effekt flera gånger per dag. Han tycker att hans hälsotillstånd överlag är identiskt med förra besöket. Spirometri visar forcerad exspiratorisk volym på en sekund (FEV1) på 1,0 L och FEV1/FVC på 0,49. Efter bronkdilatation stiger FEV1 till 1,49 L/s, vilket utgör 44% av förväntat värde. ACT (Astma Control Test) 16 av 25 poäng. Hur skulle du bedöma graden av sjukdomskontroll? Välj ett alternativ:",
-    "options": [
-      "Patienten har en delvis kontrollerad astma",
-      "Patienten har KOL",
-      "Patienten har en välkontrollerad astma",
-      "Patienten har en okontrollerad astma",
-      "Det saknas information för att bedöma grad av sjukdomskontroll"
-    ],
-    "answer": "Patienten har en okontrollerad astma"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "90",
     "question": "Föräldrarna till Kosovare, 5 månader, söker vård på hälsocentralen eftersom flickan sedan några dagar tillbaka plötsligt kastar sitt huvud och sina armar framåt i kortvariga repetitiva serier. Vilket epilepsitillstånd motsvarar detta? Välj ett alternativ:",
     "options": [
@@ -1818,26 +1598,6 @@
       "Handlar om att kunna hålla sig lugn även om patienten inte är det"
     ],
     "answer": "Handlar om att beröras och vägledas av känslor"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "93",
-    "question": "En 75-årig man inkommer till akuten med buksmärtor och temp 38,9 °C. \nLaboratorieprover (referensvärden)\nB-Hb 115 g/L(134-170)\nB-LPK 14 10⁹ (3,5-8,8 10⁹)\nP-amylas 2,0 µkat/L (0,2-1,1)\nP-alkaliskt fosfatas 4,5 µkat/L (0,7-1,9)\nP-gammaglutamyltransferas 4,9 µkat/L (<1,9)\nP-konjugerat bilirubin 70 µmol/L (<5)\nP-CRP 70 mg/L (<3)\n\nStatus:\nPuls 110 /min, blodtryck 105/60 mmHg och ömhet i övre delen av buken\n\nVilken preliminär diagnos och primär handläggning väljer du?\nVälj ett alternativ:",
-    "options": [
-      "Kolecystit. Inläggning, beställ ultraljud, beredskap för kolecystektomi",
-      "Pankreatit. Inläggning med täta kliniska kontroller och noggrann droppordination.",
-      "Kolangit. Inläggning med dropp, blododling och antibiotika för senare avlastning av gallvägar.",
-      "Akut buk, beställer CT buk och lägger in på kirurgavdelning för vidare handläggning.",
-      "Övre gastrointestinal blödning. Ordinerar dropp och protonpumpshämmare. Lägger in och beställer en akut gastroskopi."
-    ],
-    "answer": "Kolangit. Inläggning med dropp, blododling och antibiotika för senare avlastning av gallvägar."
   },
   {
     "language": "sv",
@@ -2068,26 +1828,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "105",
-    "question": "Beroende på omständigheterna varierar kroppens behov av syrgas inom ett mycket stort intervall. Detta förutsätter att andningen kan anpassas efter behov.\n\nHur får nervsystemet signaler om förändrad koncentration av koldioxid i kroppsvätskorna?\nVälj ett alternativ:",
-    "options": [
-      "Koldioxidförändringar detekteras indirekt via surhetsförändringar i cerebrospinalvätska",
-      "Specialiserade kemoreceptorer belägna i delar av det centrala nervsystemet aktiveras direkt av koldioxidmolekyler",
-      "Kroppens alla perifera vävnader är känsliga för rubbningar i koldioxidnivåer och signalerar avvikelser till nervsystemet via kemosensoriska nervfibrer",
-      "Koldioxid är liksom syrgas i blodet bundet till hemoglobin och då blodet passerar mjälten kan specialiserade receptorer belägna där detektera hemoglobinets mättnadsgrad",
-      "Blodgaserna såsom koldioxid utövar ett tryck på kärlväggen vilket gör att förändringar kan detekteras av baroreceptorer som signalerar till nervsystemet"
-    ],
-    "answer": "Koldioxidförändringar detekteras indirekt via surhetsförändringar i cerebrospinalvätska"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "106",
     "question": "Efter strålbehandling för tonsillcancer har patienten fått minskad sekretion och förändrad sammansättning av saliven från öronspottkörteln.\n\nVilket är det latinska namnet på öronspottkörteln?\nVälj ett alternativ:",
     "options": [
@@ -2228,26 +1968,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "113",
-    "question": "Lipidmembranet som omger celler är semipermeabelt och kan bara släppa genom vissa typer av molekyler genom diffusion. Andra molekyler måste transporteras genom kanaler eller med hjälp av vesikeltrafik. Vilken av följande molekyler diffunderar genom cellens lipidmembran utan hjälp av proteiner? Välj ett alternativ:",
-    "options": [
-      "Albumin",
-      "O₂",
-      "Glukos",
-      "Fe²⁺",
-      "Serin"
-    ],
-    "answer": "O₂"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "114",
     "question": "En 36-årig kvinna söker vård på grund av diffusa och periodvis återkommande besvär som med tiden har blivit allt värre. Hon har periodvis känt sig trött och särskilt på morgnarna på senare tid haft värk i händer. Du finner att falangerna på båda hennes händer är svullna och varma. Du har remitterat patienten för slätröntgen-undersökning av händerna och fått tillbaka svaret. Vilket utlåtande skulle stödja misstanken om reumatoid artrit?",
     "options": [
@@ -2318,22 +2038,6 @@
       "CT urografi"
     ],
     "answer": "CT urografi"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "118",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
   },
   {
     "language": "sv",
@@ -2494,46 +2198,6 @@
       "Bestämma läkemedlets terapeutiska index (TI)"
     ],
     "answer": "Bestämma läkemedlets terapeutiska index (TI)"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "127",
-    "question": "Buprenorfin är en opioid som används vid bl a Läkemedelsassisterad rehabilitering vid opioidberoende (LARO). Vilka farmakologiska egenskaper har buprenorfin? Välj ett alternativ:",
-    "options": [
-      "Opioidreceptorantagonist med affinitet till alla tre klassiska opioidreceptorer (μ, δ, κ)",
-      "Prodrug med kort halveringstid som bioaktiveras till flera olika aktiva metaboliter, bl a morfin",
-      "Långverkande partiell agonist vid μ-receptorer med ringa andningsdeprimerande",
-      "Opioid som vid normala doser har låg systemisk biotillgänglighet och passerar ej blod-hjärnbarriären",
-      "Svag agonist vid μ-receptorer och svag hämmare av noradrenalinupptag"
-    ],
-    "answer": "Långverkande partiell agonist vid μ-receptorer med ringa andningsdeprimerande"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220524-mcq-140-med-svar---faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "128",
-    "question": "Multipelt myelom ger förändringar beroende på huvudsakligen osteoklastisk bennedbrytning utan eller med endast ringa osteoblastaktivitet. Det finns ett flertal bildgivande diagnostiska metoder för att påvisa denna sjukdom. Vilken av följande metoder är INTE lämplig för att tidigt påvisa de typiska osteolytiska skelettförändringarna vid multipelt myelom? Välj ett alternativ:",
-    "options": [
-      "Datortomografi med intravenös kontrast",
-      "Magnetkameraundersökning utan intravenös kontrast",
-      "Konventionell röntgen",
-      "Skelettscintigrafi med 99mTc -metylendifosfonat",
-      "Datortomografi utan intravenös kontrast"
-    ],
-    "answer": "Skelettscintigrafi med 99mTc -metylendifosfonat"
   },
   {
     "language": "sv",

@@ -148,22 +148,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "8",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "9",
     "question": "En 42-årig man har blivit allt mer andfådd vid gång i uppförsbacke senaste veckorna. I status noterar du vid hjärtauskultationen ett pansystoliskt strävt blåsljud grad II med punktum maximum apex och utstrålning mot vänster axill. Vad beror detta blåsljud mest troligt på? Välj ett alternativ:",
     "options": [
@@ -424,46 +408,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "22",
-    "question": "Alveolära gasekvationen är ett hjälpmedel vid handläggningen av patienter med hypoxi: \\( p_{A,O_2} \\approx F_{I,O_2}(P_{ATM} - p_{H_2O}) - \\frac{p_{a,CO_2}}{RER} \\) Vad är det viktigaste syftet med att använda denna ekvation? Välj ett alternativ:",
-    "options": [
-      "Att avgöra om hypoxin kan förklaras av hypoventilation",
-      "Att bedöma om patientens produktion av CO₂ är onormalt hög",
-      "Att avgöra om patienten behöver hyperbar terapi",
-      "Att avgöra om patienten behöver hydreras",
-      "Att bedöma patientens behov av syrgastillförsel"
-    ],
-    "answer": "Att avgöra om hypoxin kan förklaras av hypoventilation"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "23",
-    "question": "Diarré, kraftig svettning liksom blodförluster aktiverar RAAS (renin-angiotensin-aldosteron-systemet). RAAS i sin tur bidrar till att återställa kroppens vattenbalans. På vilket sätt ökar RAAS-aktivering den extracellulära vätskevolymen och därmed blodvolymen? Välj ett alternativ:",
-    "options": [
-      "Leder till att fler ENaC-transportörer infogas i distala tubuli",
-      "Stimulerar frisättning av vasopressin",
-      "Ökar aktiviteten i Na⁺2Cl⁻K⁺-pumpen (NKCC) i ascenderande Henles slynga",
-      "Ökar nefronens reabsorption av salt och vatten",
-      "Framkallar törst och salt hunger"
-    ],
-    "answer": "Framkallar törst och salt hunger"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "24",
     "question": "Steroidhormoner har förstås likartad kemisk uppbyggnad. Vilken egenskap har alla steroidhormoner gemensamt? Välj ett alternativ:",
     "options": [
@@ -664,26 +608,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "34",
-    "question": "Lisa, 44 år, söker vård på hälsocentralen på grund av molande smärta i höger skuldra sedan tre månader. Smärtan känns främst av vid rörelser. Hon är tidigare frisk förutom tablettbehandlad hypertoni. Lisa har hört talas om fibromyalgi och undrar om hon kan ha fått denna sjukdom. Vad svarar du på hennes fråga om hon har fibromyalgi?",
-    "options": [
-      "Nej, hon är för ung, fibromyalgi uppkommer inte före 50 års ålder.",
-      "Ja, hon uppger typiska symtom talande för fibromyalgi.",
-      "Ja, det är sannolikt då det finns ett starkt samband mellan hypertoni och fibromyalgi.",
-      "I kriterier för fibromyalgi ingår förändringar på röntgen halsrygg, hon bör därför genomgå röntgenundersökning innan frågan kan besvaras.",
-      "Nej, i kriterier för fibromyalgi ingår generaliserad smärta som är utbredd i minst 4 av kroppens 5 regioner."
-    ],
-    "answer": "Nej, i kriterier för fibromyalgi ingår generaliserad smärta som är utbredd i minst 4 av kroppens 5 regioner."
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "35",
     "question": "Du arbetar på en onkologisk enhet på ett mindre sjukhus. Idag har du ett uppföljningsbesök med en 72-årig man som behandlas med medicinsk kastrationsbehandling för sin skelettmetastaserande prostatacancer sedan tre år tillbaka. Hans PSA-värde har ökat påtagligt sedan senast, från 2,1 för fyra månader sedan till 17,8 vid detta besök hos dig.\n\nVad misstänker du har hänt och vad gör du?\nVälj ett alternativ:",
     "options": [
@@ -844,26 +768,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "43",
-    "question": "Vilket läkemedel bör han i första hand behandlas med? Välj ett alternativ:",
-    "options": [
-      "furosemid",
-      "digoxin",
-      "betablockerare",
-      "ACE-hämmare",
-      "spironolakton"
-    ],
-    "answer": "ACE-hämmare"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "44",
     "question": "Paracetamol är ett av de mest använda läkemedlen vid behandling av smärta och feber. Tyvärr så kan överdosering av detta läkemedel leda till livshotande intoxikation. Vilken är den nedre toxiska dygnsdosen (mg/kg) av paracetamol för en vuxen i övrigt frisk person? Välj ett alternativ:",
     "options": [
@@ -884,22 +788,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "45",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "46",
     "question": "Du arbetar som underläkare på en kirurgklinik. På mottagningen träffar du en man med långvarig diabetes, aterosklerossjuka och viss njursvikt med P-kreatinin 140 µmol/L. Han är inremitterad från hälsocentralen under frågeställning kritisk ischemi. Han har ett sår på foten. Vilket är det bästa sättet för att ta reda på om patienten har kritisk ischemi? Välj ett alternativ:",
     "options": [
@@ -910,26 +798,6 @@
       "Poles test"
     ],
     "answer": "Tåtrycksmätning"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "47",
-    "question": "Du är underläkare på kirurgen och skall i lokalbedövning operera bort en oklar pigmentförändring på en patient på kirurgmottagningen. Du skär i lokalbedövning bort en pigmentförändring med goda marginaler ventralt på underbenet. Vad gäller vid suturering av sår efter excision av 2 cm hud + hudförändring ventralt på underbenets framsida? Välj ett alternativ:",
-    "options": [
-      "Går det att approximera sårkanterna utan kraftig tension väljer man fortlöpande intrakutansuturer med multifilt, snabbabsorberbart material",
-      "Enstaka täta hudsuturer och intrakutan fortlöpande suturering fungerar lika bra om man använder monofilt, snabbabsorberbart material.",
-      "Går det att approximera sårkanterna utan kraftig tension väljer man fortlöpande intrakutansuturer med monofilt, snabbabsorberbart material.",
-      "Kan sårkanterna approximera utan kraftig tension väljer man enstaka täta suturer med monofilt, icke-absorberbart material.",
-      "Kan sårkanterna approximera utan kraftig tension väljer man enstaka täta suturer med multifilt, snabbabsorberbart material."
-    ],
-    "answer": "Kan sårkanterna approximera utan kraftig tension väljer man enstaka täta suturer med monofilt, icke-absorberbart material."
   },
   {
     "language": "sv",
@@ -1140,26 +1008,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "58",
-    "question": "Vilken mekanism ligger till grund för att betablockerare kan vara användbara vid hjärtsvikt? Välj ett alternativ:",
-    "options": [
-      "Betablockerare hindrar de dämpande effekterna från parasympatiska nervsystemet, och tillåter därigenom hjärtat att arbeta snabbare och mer effektivt",
-      "Betablockerare hindrar de stimulerande effekterna från sympatiska nervsystemet, och sänker därigenom hjärtats arbetsbelastning.",
-      "Betablockerare ökar kalciuminflödet i myokardiet och gör därför hjärtat starkare.",
-      "Betablockerare minskar renal utsöndring av kalium, vilket leder till högre kaliumnivåer i blodet och minskar därigenom risken för arytmier",
-      "Betablockerare hindrar levern från att ta upp och binda kalcium, vilket leder till högre kalciumnivåer i blodet och därigenom starkare hjärtslag."
-    ],
-    "answer": "Betablockerare hindrar de stimulerande effekterna från sympatiska nervsystemet, och sänker därigenom hjärtats arbetsbelastning."
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "59",
     "question": "Att en patient drabbats av svåra och återkommande epilepsianfall visar sig bero på ett lågmalignt gliom i mediala temporalloben. Tumören behöver avlägsnas kirurgiskt.\n\nMed tanke på tumörens lokalisering informeras patienten om att operationen kan påverka en specifik minnesfunktion.\n\nVilken minnesfunktion rör det sig om?\nVälj ett alternativ:",
     "options": [
@@ -1330,22 +1178,6 @@
       "Aktivt centrum"
     ],
     "answer": "Aktivt centrum"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "68",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
   },
   {
     "language": "sv",
@@ -1636,46 +1468,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "83",
-    "question": "En 29-årig man inkommer medvetslös till akutmottagningen. I ambulansen har patienten behandlats med syrgas 6 L/min samt naloxon 0,4 mg. I status på akutrummet noteras andningsfrekvens 6/min, normala hjärtljud, normala andningsljud, stickmärken i armvecken och små, miotiska pupiller. En arteriell blodgas visar pH 7,19, pO₂ 19 kPa, pCO₂ 9 kPa, HCO₃⁻ 28 mmol/L.\n\nVad förklarar bäst patientens låga pH?\nVälj ett alternativ:",
-    "options": [
-      "Laktat har ökat",
-      "Anaerob metabolism",
-      "Vätejonkoncentrationen har ökat",
-      "Låg syrgasnivå",
-      "Naloxon har givits"
-    ],
-    "answer": "Vätejonkoncentrationen har ökat"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "84",
-    "question": "En 53-årig man inkommer på akutmottagningen med feber (39,2 °C), dyspne och hosta. CRP 130 mg/L (referensvärde < 3). Lungröntgen visar infiltrat bilateralt och patienten får diagnosen pneumoni.\n\nAndningsfrekvensen är 20 /min och pulsoximetri visar 86 % saturation på rumsluft.\n\nBlodgasbestämning görs och referensvärdena är\n\npCO₂ 4,7-6,0 kPa\n\npO₂ 10,7-14,0 kPa\n\nVilka pO₂ och pCO₂ förväntas patienten uppvisa?\nVälj ett alternativ:",
-    "options": [
-      "pO₂ 8,2 kPa, pCO₂ 3,3 kPa",
-      "pO₂ 8,2 kPa, pCO₂ 5,4 kPa",
-      "pO₂ 11,2 kPa, pCO₂ 3,3 kPa",
-      "pO₂ 11,2 kPa, pCO₂ 5,4 kPa",
-      "pO₂ 15,3 kPa, pCO₂ 3,3 kPa"
-    ],
-    "answer": "pO₂ 8,2 kPa, pCO₂ 5,4 kPa"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "85",
     "question": "En del cancersjukdomar har behandlingsprediktiva mutationer som kan identifieras i tumören med hjälp av molekylärgenetisk diagnostik. Dessa mutationer är viktiga att känna till för att kunna välja bästa behandling. Vid vilken av följande cancersjukdomar gäller detta? Välj ett alternativ:",
     "options": [
@@ -1876,46 +1668,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "95",
-    "question": "En patient läggs in för utredning av nefrotiskt syndrom. (referensvärdet för albumin-kreatininkvot i urinen är < 3 mg/mmol)) Vad är karaktäristiskt för detta tillstånd? Välj ett alternativ:",
-    "options": [
-      "Sänkt P-albumin, albumin-kreatininkvot i urinen >300 mg/mmol, ödem, höga blodlipider",
-      "Högt kreatinin, albumin-kreatininkvot >3 mg/mmol, högt blodtryck, höga blodlipider",
-      "Högt kreatinin, albumin-kreatininkvot i urinen >30 mg/mmol, ödem, höga blodlipider",
-      "Hematuri, albumin-kreatininkvot i urinen >30 mg/mmol, ödem, oliguri",
-      "Högt kreatinin, hematuri, sänkt P-albumin, ödem"
-    ],
-    "answer": "Sänkt P-albumin, albumin-kreatininkvot i urinen >300 mg/mmol, ödem, höga blodlipider"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "96",
-    "question": "En kvinna, 30 år, inkommer till akuten med anamnes på 5 dagars kraftiga, blodtillblandade diarréer och feber.\n\nHon följe på gynekologiska mottagningen på grund av endometrios men har i övrigt varit frisk. Hon tar inga läkemedel regelbundet. Hennes sambo insjuknade också med diarréer för 5 dagar sedan men hans symtom var milda och har gått över. Paret hade varit på restaurang och ätit samma gyttja några dagar innan de insjuknade.\n\nMätningar och provsvar: Blodtryck 90/60 mmHg. Puls 100 /min. Syrgasmättnad 98 % på luft. B-Hb 140 g/L. CRP 80 mg/L. B-LPK 11,8 10⁹. Kreatinin 180 µmol/L. P-K 3,3 mmol/L. U-sticka utan anmärkning.\n\nVad är den mest sannolika orsaken till den akuta njursvikten?\nVälj ett alternativ:",
-    "options": [
-      "Pyelonefrit",
-      "Post-renal-njursvikt orsakad av residualurin",
-      "Hemolytiskt-uremiskt syndrom orsakad av E. coli",
-      "Pre-renal-njursvikt orsakad av hypovolemi",
-      "Post-renal-njursvikt orsakad av endometrios"
-    ],
-    "answer": "Pre-renal-njursvikt orsakad av hypovolemi"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "97",
     "question": "När forskarna först försökte fastställa om det fanns en koppling mellan rökning och lungcancer gjorde de en studie där de identifierade dels sjukhuspatienter som hade lungcancer och dels en jämförelsegrupp av sjukhuspatienter som hade andra sjukdomar än cancer. Vad kallas denna studiedesign? Välj ett alternativ:",
     "options": [
@@ -2036,26 +1788,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "103",
-    "question": "Man delar in mutationer i två huvudgrupper, gain-of-function mutationer och loss-of-function mutationer. Vad är anledningen till att gain-of-function mutationer ofta ger upphov till dominanta sjukdomar? Välj ett alternativ:",
-    "options": [
-      "Det normala proteinet kan inte kompensera för det muterade proteinets nya toxisk funktion.",
-      "Det muterade proteinet har längre halveringstid och kommer därför att dominera fenotypen.",
-      "Den normala genen inaktiveras genom så kallad imprinting, vilket gör att endast det muterade proteinet uttrycks.",
-      "Halva uttrycket av den normala genen är inte nog för att upprätthålla en normal fenotyp.",
-      "Den muterade genen agerar templat i en homolog överkorsning vilket resulterar i två muterade kopior."
-    ],
-    "answer": "Det normala proteinet kan inte kompensera för det muterade proteinets nya toxisk funktion."
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "104",
     "question": "För att analysera DNA-sekvensen i människans arvsmassa, finns det nu flera utvecklade sekvenseringsmetoder. Vilket enzym behövs huvudsakligen vid DNA-sekvensering? Välj ett alternativ:",
     "options": [
@@ -2096,42 +1828,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "106",
-    "question": "Vilket/vilka tillstånd stämmer bäst överens med KOL? Välj ett alternativ:",
-    "options": [
-      "Bronkiolit och emfysem",
-      "Kronisk astma hos rökare",
-      "Kronisk luftvägsinfektion och emfysem",
-      "Kronisk bronkit och emfysem",
-      "Pulmonell hypertension och bronkiolit"
-    ],
-    "answer": "Bronkiolit och emfysem"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "107",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "140",
     "question": "Välj ett alternativ:",
     "options": [
@@ -2142,26 +1838,6 @@
       "Obstruktiv lungfunktionsinskränkning utan signifikant reversibilitet"
     ],
     "answer": "Normal spirometri före och efter dilatation. Ingen signifikant reversibilitet"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "108",
-    "question": "En tidigare frisk kvinna, 43 år, kommer på en akuttid till hälsocentralen. Hon beskriver sömnsvårigheter den senaste veckan, att hon lätt faller i gråt och några gånger har höjt rösten mot barnen, 8 och 12 år gamla.\n\nDet framkommer även att hennes partner vill separera och har flyttat ut till deras sommarstuga.\n\nPatienten som annars utan större problem brukar hantera familj, jobb och barn (varav en med nydiagnostiserad celiaki) är orolig för att hon håller på att bli helt utmattad eller möjligen håller på att bli galen. Barnen är för närvarande med patientens föräldrar och hon fick skjuts till hälsocentralen av en god vän.\n\nVad bör du göra nu?\nVälj ett alternativ:",
-    "options": [
-      "Förklara att patienten sannolikt genomgår en akut krisreaktion och erbjuda fortsatt kontakt här på hälsocentralen",
-      "Förklara att det är en normal krisreaktion men att hon behöver söka stöd till exempel hos kyrkans stödgrupp",
-      "Förklara att det sannolikt rör sig om en normal krisreaktion och erbjuda ett samtal där även partnern närvarar",
-      "Förklara att det är en depression och erbjud medicinering",
-      "Förklara att detta nog rör sig om en akut krisreaktion och skriva remiss till akutpsykiatriska mottagningen"
-    ],
-    "answer": "Förklara att patienten sannolikt genomgår en akut krisreaktion och erbjuda fortsatt kontakt här på hälsocentralen"
   },
   {
     "language": "sv",
@@ -2242,26 +1918,6 @@
       "Urinsyra"
     ],
     "answer": "Malonyl-CoA"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "113",
-    "question": "En 22-årig, tidigare frisk kvinna inkommer till akutmottagningen efter att ha svimmat när hon reste sig upp från sängen. Hennes mamma har hypotyreos och hennes yngre bror har diabetes. De senaste tre månaderna har kvinnan varit väldigt trött, tappat aptiten och gått ned i vikt 7 kg och de senaste veckorna har hon haft yrsel då hon reser sig upp. Vilken diagnos är mest sannolik? Välj ett alternativ:",
-    "options": [
-      "Anorexia nervosa",
-      "Hjärntumör",
-      "Graves sjukdom",
-      "Addisons sjukdom",
-      "Celiaki"
-    ],
-    "answer": "Addisons sjukdom"
   },
   {
     "language": "sv",
@@ -2362,26 +2018,6 @@
       "mellan trakealbrosken"
     ],
     "answer": "mellan sköldbrosk och ringbrosk"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "119",
-    "question": "Årtlig dövhet kan orsakas av defekt återflöde av en viss typ av joner från hårcellerna i cortiska organet till den struktur i innerörat som bildar endolymfa. Vilket jonslag är det fråga om och vilken histologisk struktur i cochlea bildar endolymfa? Välj ett alternativ:",
-    "options": [
-      "Na⁺ + basilarmembranet",
-      "K⁺ + Reissners membran",
-      "K⁺ + stria vascularis",
-      "Na⁺ + ganglion spirale",
-      "Ca²⁺ + scala tympani"
-    ],
-    "answer": "K⁺ + stria vascularis"
   },
   {
     "language": "sv",
@@ -2642,42 +2278,6 @@
       "Splicing"
     ],
     "answer": "Transkriptionsinitiering"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "133",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "220308-mcq-140-faststalld-rattningsmall.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "134",
-    "question": "Du tjänstgör på en strokeavdelning och ska gå in till en patient med ockluderad a. cerebri media sin. Vilka symptom uppvisar troligen patienten? Välj ett alternativ:",
-    "options": [
-      "Yrsel, sluddrigt tal och balanssvårigheter.",
-      "Svårt att hitta ord/uttrycka sig, synfältsbortfall åt höger, sväljningssvårigheter, nedsatt kraft vänster arm och vänster ben, hängande mungipa vänster.",
-      "Deviation conjuguée åt höger, nedsatt kraft höger arm och höger ben, högersidigt neglekt.",
-      "Impressiv och expressiv afasi, synfältsbortfall åt höger, nedsatt kraft i vänster arm och ben, hängande mungipa höger.",
-      "Expressiv afasi, nedsatt kraft höger arm och ben och deviation conjuguée åt vänst."
-    ],
-    "answer": "Expressiv afasi, nedsatt kraft höger arm och ben och deviation conjuguée åt vänst."
   },
   {
     "language": "sv",

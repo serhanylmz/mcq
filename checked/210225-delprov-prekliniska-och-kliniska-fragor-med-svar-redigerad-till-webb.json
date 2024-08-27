@@ -368,46 +368,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "19",
-    "question": "Du jobbar på primärvårdsjouren en helgdag. Ingrid, 65 år, kommer till dig på grund av uttalad trötthet sedan några veckor tillbaka. Hon har hypertoni som behandlas med T. hydroklortiazid och typ 2 diabetes som behandlas med kost och motion. Hon går på regelbundna kontroller på sin hälsocentral 2 gånger per år. Medföljande make berättar att patienten blivit glömsk och lätt förvirrad senaste veckorna. Hon har tidigare varit helt klar och mått bra. Hon har sedan några veckor tillbaka känt sig mer törstig, druckit mer och kissat mer än vanligt och besväras av förstoppning. De senaste dagarna har hon varit närmast sängliggande då hon känt sig väldigt trött och svag i benen.\n\nStatus:\nTemp: 37,2 °C\nBlodtryck: 125/75 mmHg\nCor: regelbunden rytm, inga blåsljud. Frekvens cirka 90 /minut.\nPulm och buk: utan anmärkning\n\nVilket av följande blodprover är viktigast just nu för fortsatt handläggning av patienten?",
-    "options": [
-      "S-TSH",
-      "P-Ca2+",
-      "B-glukos",
-      "B-Hb",
-      "P-CRP"
-    ],
-    "answer": "B-glukos"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "20",
-    "question": "Per, 23 år, motionerar flitigt. Han kommer till dig på hälsocentralen efter midsommar på grund av kliande ögon men framförallt nästäppa och snuva. Han hade liknande besvär ifjol och då räckte det att använda receptfria \"allergitabletter\" vid behov. I år har han besvär trots att han tar \"allergitabletterna\" varje dag och han har inte heller kunnat löpträna på grund av att han får hosta vid ansträngning. Spirometri visar normalt fynd.\n\nVilken åtgärd är mest adekvat i detta fall?",
-    "options": [
-      "Du ordinerar peroralt antihistamin + nasal steroid + skriver remiss till lungmedicin/allergolog för utredning av misstänkt pollenallergi",
-      "Du ordinerar antihistamin peroralt + oral kortisonkur med nedtrappning i relation till symtombild",
-      "Du ordinerar antihistamin peroralt + kortisonspruta",
-      "Du ordinerar peroralt antihistamin + nasal steroid + inhalationssteroid + inhalation av snabbverkande β2-stimulerare vid behov",
-      "Du skriver remiss till lungklinik/allergolog för allergen immunterapi (AIT/hyposensibilisering) mot pollen"
-    ],
-    "answer": "Du ordinerar peroralt antihistamin + nasal steroid + inhalationssteroid + inhalation av snabbverkande β2-stimulerare vid behov"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "21",
     "question": "Frank, 65 år, slutade röka för åtta år sedan. Han kommer nu till dig på hälsocentralen på grund av försämrad kondition. Han blir andfådd vid ansträngning och hänger inte längre med jämnåriga hustrun i uppförsbackarna när de är ute på promenad. Han hostar slem periodvis men så har det varit i några år nu och han har inte behövt söka akut. Vilken undersökning bör du i första hand beställa? Välj ett alternativ:",
     "options": [
@@ -438,26 +398,6 @@
       "SR, blodvärde, kreatinin"
     ],
     "answer": "Spirometri och lungröntgen"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "23",
-    "question": "En 68-årig pensionerad kvinna som slutat röka för tre år sedan kommer till dig på hälsocentralen. Hon har sedan några år fått tilltagande besvär med långdragen hosta och andfåddhet vid ansträngning. Till följd av ansträngningsdyspné kan hon inte längre gå lika fort som den jämnårige maken när de är ute på promenader. Både patienten och maken har vaccinerat sig mot influensa varje år och hon har inte haft några förkylningar de senaste två åren.\n\nSpirometri efter bronkdilatation visar FEV1/FVC 0.63, FEV1 68 % av förväntat värde. COPD-assessment test (CAT) visar 15 poäng.\n\nDu misstänker att patienten har kroniskt obstruktiv lungsjukdom.\n\nVilken inhalationsbehandling bör du erbjuda henne?\nVälj ett alternativ:",
-    "options": [
-      "LABA (långverkande β₂-agonist) och/eller LAMA (långverkande antikolinergikum) regelbundet dagligen",
-      "Kortverkande β₂-agonist (SABA) vid behov",
-      "Inhalationssteroid (ICS) och LABA (långverkande β₂-agonist) regelbundet dagligen + kortverkande β₂-agonist (SABA) vid behov",
-      "Inhalationssteroid (ICS), LABA (långverkande β₂-agonist) och LAMA (långverkande antikolinergikum) regelbundet dagligen",
-      "Inhalationssteroid (ICS) och LABA (långverkande β₂-agonist) regelbundet dagligen"
-    ],
-    "answer": "LABA (långverkande β₂-agonist) och/eller LAMA (långverkande antikolinergikum) regelbundet dagligen"
   },
   {
     "language": "sv",
@@ -538,24 +478,6 @@
       "RNA-syntes"
     ],
     "answer": "Cellväggssyntes"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "29",
-    "question": "Det är inte ovanligt att cancerpatienter drabbas av neutropen feber av cytostatikabehandling. Vad är kriterierna för neutropen feber? Välj ett alternativ:",
-    "options": [
-      "Temperatur ≥ 38,5 °C och neutrofiler > 0,5 x 10⁹/L",
-      "Temperatur 38 °C under mindre än en timme och neutrofiler < 0,5 x 10⁹/L",
-      "Temperatur 37,5 °C och neutrofiler > 0,5 x 10⁹/L"
-    ],
-    "answer": "Temperatur ≥ 38,5 °C och neutrofiler > 0,5 x 10⁹/L"
   },
   {
     "language": "sv",
@@ -1446,46 +1368,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "74",
-    "question": "Vilken är den vanligaste kliniska tillämpningen av PET/CT? Välj ett alternativ:",
-    "options": [
-      "11C-Acetat PET för att påvisa ökad lipidmetabolism",
-      "18F-FDG PET för att påvisa ökad glukosmetabolism",
-      "68Ga-DOTATOC PET för utredning av neuroendokrina tumörer",
-      "15O-vatten PET för att påvisa ökad blodcirkulation",
-      "18F-FET PET för att påvisa recidiv av hjärntumör"
-    ],
-    "answer": "18F-FDG PET för att påvisa ökad glukosmetabolism"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "75",
-    "question": "Olika vävnader och ämnen attenuerar röntgenstrålning i olika grad. Det är detta fenomen som ligger till grunden för avbildning med konventionell röntgen (slätröntgen /plain radiography). Du ska rangordna vävnadernas/ämnenas röntgenattenuering genom att välja det svarsalternativ som korrekt listar ämnena från vänster till höger (svart > vitt) i bilden som representerar svärtningsgrad i konventionell röntgenbild. Välj ett alternativ:",
-    "options": [
-      "Gas, Fett, Mjukvävnad, Skelett, Metall",
-      "Skelett, Gas, Mjukvävnad, Metall, Fett",
-      "Metall, Skelett, Gas, Mjukvävnad, Fett",
-      "Mjukvävnad, Fett, Skelett, Gas, Metall",
-      "Fett, Gas, Mjukvävnad, Metall, Skelett"
-    ],
-    "answer": "Gas, Fett, Mjukvävnad, Skelett, Metall"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "76",
     "question": "Skador på tractus corticospinalis (pyramidbanan) kan orsakas av blodpropp i kärl. I vilket av nedanstående kärl kan en propp ge symptom från pyramidbanan? Välj ett alternativ:",
     "options": [
@@ -1666,26 +1548,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "85",
-    "question": "Mona har sökt vård på kvinnokliniken för ökande behåring på överläppen, magen och runt bröstvårtorna. Hon får diagnosen PCOS (polycystiskt ovarialsyndrom) och rekommenderas östrogenprofilerade p-piller som behandling mot sin hirsutism. Vilken effekt av etinylöstradiol förklarar att p-piller minskar behåring av manlig typ? Välj ett alternativ:",
-    "options": [
-      "Blockerar testosteroneffekten i hårsäckarna",
-      "Sänker totala mängden S-testosteron i blodet",
-      "Höjer S-SHBG (sex-hormone binding globuline)",
-      "Ökar prolaktinutsöndringen från hypofysen",
-      "Ökar levermetabolismen av steroidhormon"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "86",
     "question": "Gravida kvinnors blodtryck kontrolleras upprepade gånger inom mödrahälsovården i syfte att tidigt identifiera kvinnor som utvecklar hypertonisjukdom under graviditeten. Ett viktigt tillstånd att detektera under graviditet är preeklampsi. Vilket av följande påståenden är mest korrekt när det gäller gravida som utvecklar preeklampsi? Välj ett alternativ:",
     "options": [
@@ -1716,46 +1578,6 @@
       "Den allmänna uppståndelsen och stressen i situationen gör Gustav upprörd."
     ],
     "answer": "Hypovolemin gör Gustav konfusorisk."
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "88",
-    "question": "Inom det medicinska arbets- och forskningsfältet används terminologi som är internationell och har en specifik betydelse. Vad menas med termen klinisk prövning (clinical trial)? Välj ett alternativ:",
-    "options": [
-      "undersökning som jämför klinisk och pre-klinisk metod på frivilliga försökspersoner",
-      "undersökning som bara kan göras i kliniskt laboratorium under strikt kontrollerade förhållanden",
-      "undersökning som avser att fastställa för- och nackdelar med en ny metod för diagnostik, profylax eller behandling",
-      "undersökning som utsätter patienterna för en fysiskt eller mentalt hård prövning",
-      "undersökning av rättsmedicin som prövar skadeutfall för olika traumamekanismer"
-    ],
-    "answer": "undersökning som avser att fastställa för- och nackdelar med en ny metod för diagnostik, profylax eller behandling"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "89",
-    "question": "En 55-årig man som större delen av arbetstiden monterar innertak har nu drabbats av axelsmärta, med diagnosen rotatorkuffsyndrom. Vilken rekommendation är bäst? Välj ett alternativ:",
-    "options": [
-      "En längre tids sjukskrivning och kortisoninjektion, därefter återgång till arbetet",
-      "Ansökan om sjukersättning på halvtid",
-      "Omskolning till kontorsarbete",
-      "Styrketräning och farmakologisk behandling (ibuprofen)",
-      "Kortare sjukskrivning i kombination med fysioterapi samt minskat axelbelastande arbete vid återgång till arbetet"
-    ],
-    "answer": "Kortare sjukskrivning i kombination med fysioterapi samt minskat axelbelastande arbete vid återgång till arbetet"
   },
   {
     "language": "sv",
@@ -2206,22 +2028,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "112",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "113",
     "question": "Du träffar en 27-årig kvinna för uppföljning av typ 1 diabetes som debuterade vid 19 års ålder. Hon har haft medelgod glukosmetabol kontroll (HbA1c kring 65 mmol/mol) och har inga kända komplikationer förutom lindrig retinopati vid senaste ögonbottenundersökningen. De senaste månaderna har hon varit mera aptitlös och gått ned några kilo i vikt. Hon har känt sig trött och orkeslös och upplevt yrsel vid uppresning. I anslutning till detta har hon haft betydligt fler hypoglykemier än vanligt och minskat sina insulindoser av både långverkande och måltidsinsulin med ca 25 %.\n\nLaboratorieprover (referensvärden):\n\nB-HbA1c 51 mmol/mol (27-42)\nP-Na 131 mmol/L (137-145)\nP-K 4,7 mmol/L (3,5-4,4)\nP-Kreatinin 87 mmol/L (45-90)\nS-TSH 3,9 mIU/L (0,24-4,2)\n\nVilken bakomliggande orsak till minskat insulinbehov måste du i första hand utesluta?",
     "options": [
@@ -2502,46 +2308,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "127",
-    "question": "Epitelet i munhålan täcks av ett skyddande lager muköst sekret vilket utsöndras av specialiserade celler i spottkörtlarna. Hur gör cellerna i spottkörteln för att bilda muköst sekret? Välj ett alternativ:",
-    "options": [
-      "Cellerna dör och innehållet från cellerna läcker ut via så kallad holokrin utsöndring vilket bildar ett muköst sekret.",
-      "Cellerna syntetiserar protein som kovalent kopplas till en lipid och förankras i plasmamembranet. Sedan utsöndras detta protein genom att delar av membranet knoppas av vilket skapar ett muköst sekret.",
-      "Cellerna producerar stora mängder triglycerider (fetter) som utsöndras och bildar muköst sekret.",
-      "Cellerna syntetiserar och utsöndrar enzymer som bryter ner proteiner i munhålan vilket skapar ett muköst sekret.",
-      "Cellerna syntetiserar protein som glykosyleras med kolhydrater för att sedan utsöndras via exocytos som ett muköst sekret."
-    ],
-    "answer": "Cellerna syntetiserar protein som glykosyleras med kolhydrater för att sedan utsöndras via exocytos som ett muköst sekret."
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "128",
-    "question": "I cellen så behöver de lipider som bygger upp membraner omfördelas mellan olika organeller för att upprätthålla cellens organisation och struktur. Vilken mekanism i cellen kan på effektivaste sätt flytta en stor mängd lipider mellan membranen i två olika organeller? Välj ett alternativ:",
-    "options": [
-      "Transport genom specifika transportproteiner som sedan möjliggör diffusion i cytosolen mellan två organeller.",
-      "Direkt kontaktyta mellan två olika organeller där lipider kan transporteras från det ena membranet till det andra.",
-      "Fri diffusion i cytosolen mellan två organeller.",
-      "Lipider bryts ner och byggs ihop i cellen och byggstenarna transporteras via fri diffusion i cytosolen. På varje organell finns sedan enzymer för att syntetisera liper av olika slag.",
-      "Vesikeltrafik där en membranvesikel som bildas från en organell tar med sig lipider till en annan organell där den smälter samman med denna."
-    ],
-    "answer": "Vesikeltrafik där en membranvesikel som bildas från en organell tar med sig lipider till en annan organell där den smälter samman med denna."
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "129",
     "question": "Proteiner bär med sig sin egen sorteringssignal för att transporteras till rätt ställe i cellen. Var kommer ett membranprotein som translateras in i endoplasmatiska retiklet att slutligen hamna om det saknar ytterligare sorteringssignal? Välj ett alternativ:",
     "options": [
@@ -2632,46 +2398,6 @@
       "Hjärtsvikt"
     ],
     "answer": "Kronisk lungemboli"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "134",
-    "question": "Erik är 55 år gammal och har dagligen rökt ~20 cigaretter sedan 20-årsåldern. Han behandlas för hypertoni sedan några år (T. amlodipin 1 × 5 mg).\n\nI samband med snöskottning fick han svår bröstsmärta centralt i bröstet med utstrålning i båda armarna. Han blev skjutsad till hälsocentralen av sina arbetskamrater och blir direkt undersökt av en distriktsläkare.\n\nErik är kraftigt smärtpåverkad, hjärta och lungor auskulteras utan anmärkning, systoliskt blodtryck uppmäts till 100 mmHg och pulsen är regelbunden kring 100/min. Distriktsläkaren ordinerar EKG, som ser ut enligt följande:\n\nHälsocentralen som har extra observationsplatser ligger 20 mil från närmaste sjukhus.\n\nVad bör vara nästa åtgärd?",
-    "options": [
-      "Lägga in patienten för observation",
-      "Ge trombolys intravenöst efter kontroll av kontraindikationer",
-      "Ge ticagrelol + acetylsalicylsyra peroralt",
-      "Ge lågmolekylärt heparin",
-      "Beställa transport till sjukhus"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210225-delprov-prekliniska-och-kliniska-fragor-med-svar-redigerad-till-webb.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "135",
-    "question": "På sjukhuset påbörjas antikoagulationsbehandling inför en planerad DC-konvertering. Vilken sådan behandling är mest lämplig för Lisa? Välj ett alternativ:",
-    "options": [
-      "Apixaban 5 mg x 2 peroralt",
-      "Dalteparin 10 000 E x 2 subkutant",
-      "Acetylsalicylsyra A 75 mg x 1 peroralt",
-      "Warfarin peroralt",
-      "Clopidogrel 75 x 1 peroralt"
-    ],
-    "answer": "Apixaban 5 mg x 2 peroralt"
   },
   {
     "language": "sv",

@@ -2,11 +2,11 @@ import json
 from typing import List, Dict
 
 # Input and output file paths
-INPUT_FILE = "pdfs/mcq/delprov-preklinisk-och-klinisk-del-2020-09-10---med-svar.json"
-OUTPUT_FILE = "pdfs/mcq/cleaned_delprov-preklinisk-och-klinisk-del-2020-09-10---med-svar.json"
+INPUT_FILE = "pdfs/mcq/220524-mcq-140-med-svar---faststalld-rattningsmall.json"
+OUTPUT_FILE = "pdfs/mcq/cleaned/220524-mcq-140-med-svar---faststalld-rattningsmall.json"
 
 # Question numbers to exclude (leave empty if none)
-EXCLUDE_NUMBERS = [90, 91, 94, 118, 125, 128]
+EXCLUDE_NUMBERS = ["11", "17", "21", "34", "73", "82", "89", "93", "105", "113", "127", "128"]
 
 def read_json_file(file_path: str) -> List[Dict]:
     """Read and return data from a JSON file."""
@@ -18,7 +18,7 @@ def write_json_file(file_path: str, data: List[Dict]):
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-def clean_mcq_data(data: List[Dict], exclude_numbers: List[int]) -> List[Dict]:
+def clean_mcq_data(data: List[Dict], exclude_numbers: List[str]) -> List[Dict]:
     """
     Clean MCQ data by removing invalid questions and specified question numbers.
     

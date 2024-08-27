@@ -348,22 +348,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "18",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "19",
     "question": "Provtagning för sexuellt överförda infektioner kan genomföras vid en hälsocentral. För vilken av dessa sexuellt överförda infektioner kan man på provresultatet se att patienten har haft infektionen tidigare? Välj ett alternativ:",
     "options": [
@@ -444,46 +428,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "23",
-    "question": "Ann-Mari, 98 år, fick en urinvägsinfektion med bakteriemi och lades akut in på sjukhus. Hon fick behandling med amoxicillin och kunde efter några dagar föras över till rehabilitering på en geriatrisk klinik. Väl där fick hon besvär med kräkningar och behandlades framgångsrikt med metoklopramid. Vilken är verkningsmekanismen för metoklopramid? Välj ett alternativ:",
-    "options": [
-      "Antagonist vid histamin H₁-receptorer",
-      "Agonist vid 5HT₁D/₁B-receptorer",
-      "Antagonist vid dopamin D₂-receptorer",
-      "Agonist vid 5HT₃-receptorer",
-      "Antagonist vid substans P NK₁-receptorer"
-    ],
-    "answer": "Antagonist vid dopamin D₂-receptorer"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "24",
-    "question": "Sukralfat kan användas vid behandling av ulcus. Vilken är effekten av detta läkemedel i magsäcken? Välj ett alternativ:",
-    "options": [
-      "Buffrar H⁺-joner",
-      "Skyddar slemhinnan lokalt",
-      "Bildar mucus",
-      "Hämmar saltsyrasekretion",
-      "Neutraliserar saltsyran"
-    ],
-    "answer": "Skyddar slemhinnan lokalt"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "25",
     "question": "Sven, 55 år, har diabetes och ska behandlas med dapagliflozin, som tillhör gruppen SGLT-2 hämmare. Vilken är verkningsmekanismen? Välj ett alternativ:",
     "options": [
@@ -494,26 +438,6 @@
       "ökar leverns glukosproduktion"
     ],
     "answer": "ökar glukosutsöndringen i njuren"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "26",
-    "question": "Anders, 59 år, har diagnosticerats med förmaksflimmer och ska få behandling med metoprolol. Vilken är verkningsmekanismen? Välj ett alternativ:",
-    "options": [
-      "Blockerar β₁-receptorer",
-      "Blockerar effektivt både β₁- och β₂-receptorer",
-      "Blockerar β₂-receptorer",
-      "Stimulerar β₂-receptorer",
-      "Stimulerar β₁-receptorer"
-    ],
-    "answer": "Blockerar β₁-receptorer"
   },
   {
     "language": "sv",
@@ -754,26 +678,6 @@
       "Yrsel"
     ],
     "answer": "Ataxi"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "39",
-    "question": "Korrekt undersökta och tolkade senreflexer kan ge värdefull diagnostisk information vid neurologisk utredning. Vilket av nedanstående påståenden är korrekt kring senreflexer? Välj ett alternativ:",
-    "options": [
-      "Stegrade reflexer i en arm talar för plexus brachialisskada.",
-      "En reflexasymmetri med mer lättutlöst patellarreflex höger jämfört med vänster (för övrigt normalt nervstatus) ska utredas med MR rygg.",
-      "Vid klinisk undersökning inför beslut om akut reperfusionsbehandling på strokemisstanke hos en person med halvsidesförlamning är det viktigt att noga kartlägga senreflexer.",
-      "Patologiskt Babinskis tecken innebär att stortån dorsalextenderas när du drar ett hårt föremål utmed laterala fotranden.",
-      "Bortfallna reflexer i nedre extremiteter talar emot polyneuropati hos en patient med progredierande svaghet i benen."
-    ],
-    "answer": "Patologiskt Babinskis tecken innebär att stortån dorsalextenderas när du drar ett hårt föremål utmed laterala fotranden."
   },
   {
     "language": "sv",
@@ -1344,26 +1248,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "68",
-    "question": "En 78-årig man med hypertoni inkommer till sjukhuset med feber och hosta. Andningsfrekvens 16/min och tidalvolymen är normal. Arteriellt syrgas visar pO₂ 8 kPa på rumsluft. Du ordinerar 30 % syrgas på venturimask. 20 minuter senare tar du en ny arteriell blodgas.\n\nVilket av nedanstående pO₂-värden är närmast det förväntade om det låga initiala värdet berodde på en diffusionsnedsättning?\nVälj ett alternativ:",
-    "options": [
-      "80 kPa",
-      "13 kPa",
-      "130 kPa",
-      "8 kPa",
-      "30 kPa"
-    ],
-    "answer": "13 kPa"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "69",
     "question": "En 75-årig kvinna med hypertoni och kroniskt obstruktiv lungsjukdom (KOL) inkommer med trimalleolär fraktur på höger sida. Hon behöver smärtlindras, men önskar slippa tunga opiater i väntan på operation. Ett alternativ är att lägga en perifer nervblockad.\n\nVilken metod är bäst lämpad för att bedöva frakturområdet och ändå minimera påverkningarna på patienten?\nVälj ett alternativ:",
     "options": [
@@ -1764,26 +1648,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "89",
-    "question": "HINTS (head impulse, nystagmus, test of skew) används som diagnostiskt hjälpmedel vid akut yrsel. Hur utfallertestet vid vestibularisneurit? Välj ett alternativ:",
-    "options": [
-      "Head Impuls Test är patologiskt (återställningssaccad finns). Horisontell spontannystagmus som ändrar riktning finns. Test of Skew är patologisk (vertikal saccad rörelse finns).",
-      "Head Impuls Test är patologiskt (återställningssaccad finns). Horisontell spontannystagmus finns. Test of Skew är normal (vertikal saccad rörelse saknas).",
-      "Head Impuls Test är normalt (återställningssaccad saknas). Vertikal spontannystagmus finns. Test of Skew är patologisk (vertikal saccad rörelse finns).",
-      "Head Impuls Test är normalt (återställningssaccad saknas). Horisontell spontannystagmus finns. Test of Skew är normal (vertikal saccad rörelse saknas).",
-      "Head Impuls Test är normalt (återställningssaccad saknas). Horisontell spontannystagmus som ändrar riktning finns. Test of Skew är normal (vertikal saccad rörelse saknas)."
-    ],
-    "answer": "Head Impuls Test är patologiskt (återställningssaccad finns). Horisontell spontannystagmus finns. Test of Skew är normal (vertikal saccad rörelse saknas)."
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "90",
     "question": "Du träffar Peter, 18 år, på hälsocentralen. Han spelar fotboll på elitnivå. Han har aldrig rökt. Han har pälsdjursallergi, hösnuva och astma sedan barnaåren.\n\nSedan flera år medicinerar han med inhalationskortison och långverkande β₂-agonist med god effekt mot köld- och ansträngningsutlöst andnöd och pip i luftrören.\n\nSista året tycker han att medicinerna inte hjälper lika bra. Vid maximal ansträngning får han svårt att andas in, \"sugrörskänsla\", och måste avbryta den fysiska aktiviteten. Besvären går nästan momentant över. Han kan ha besvär flera gånger i veckan. Symptomen har ingen årstidsvariation.\n\nVilken diagnos bör rimligen misstänkas i detta fall?",
     "options": [
@@ -1914,26 +1778,6 @@
       "Digitalis"
     ],
     "answer": "Nitrater"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "97",
-    "question": "Vid bedömning av misstänkt allvarlig infektion hos barn behöver du kunna tolka CRP. Hur många timmar kan det dröja från debut av symtom vid en allvarlig infektion innan CRP stiger över referensvärdet? Välj ett alternativ:",
-    "options": [
-      "36",
-      "48",
-      "6",
-      "24",
-      "12"
-    ],
-    "answer": "invalid"
   },
   {
     "language": "sv",
@@ -2344,26 +2188,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "118",
-    "question": "Ett cellmembran är olika permeabelt för olika typer av substanser. Vilken substans passerar lättast ett cellmembran utan att använda något transportprotein?",
-    "options": [
-      "O₂",
-      "asparagin",
-      "Na⁺",
-      "Cl⁻",
-      "glukos"
-    ],
-    "answer": "O₂"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "119",
     "question": "I innerörat finns otolitorganen som har en viktig sensorisk funktion. Vad känner otolitorganen främst av?",
     "options": [
@@ -2544,26 +2368,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "128",
-    "question": "Erik är 55 år gammal och har dagligen rökt cirka 20 cigaretter sedan 20-årsåldern. Han behandlas för hypertoni sedan några år (T. amlodipin 5 mg x 1).\n\nI samband med snöskottning fick han svår bröstsmärta centralt i bröstet med utstrålning i båda armarna. Han blev skjutsad till hälsocentralen av sina arbetskamrater och blir direkt undersökt av en distriktsläkare.\n\nErik är kraftigt smärtpåverkad, hjärta och lungor auskulteras utan anmärkning, systoliskt blodtryck uppmäts till 100 mmHg och pulsen är regelbunden kring 100/min. Distriktsläkaren ordinerar ett EKG, som ser ut enligt följande:\n\nVad är den mest troliga orsaken till mannens symptom?\nVälj ett alternativ:",
-    "options": [
-      "Akut lungemboli",
-      "Akut transmural hjärtinfarkt",
-      "Akut subendokardiell hjärtinfarkt",
-      "Akut perikardit",
-      "Akut aortadissektion"
-    ],
-    "answer": "Akut transmural hjärtinfarkt"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "129",
     "question": "Erik är 45 år gammal och tidigare frisk frånsett en tablett-behandlad hypertoni. Han är närmast en elitmotionär som brukar springa ett par maratonlopp per sommar. Han har nu uppsökt sin hälsocentral eftersom orken \"tagit slut\" denna säsong. Han blir helt slut efter någon kilometers löpning vilket är helt främmande och nytillkommet.\n\nVid samtalet förnekar Erik bröstsmärta och svimning. Erik berättar också att hans far har haft problem med thorakala aorta. Vid auskultation hörs ett diastoliskt blåsljud längs vänster sternalrand, som också hörs mer dovt över apex. Blodtrycket är 170/40 mmHg. EKG visar sinusrytm och vänsterkammarhypertrofi.\n\nDu misstänker att Erik har ett klaff-fel.\n\nVilken typ är troligast?\nVälj ett alternativ:",
     "options": [
@@ -2574,42 +2378,6 @@
       "Chordaruptur"
     ],
     "answer": "Bikuspid aortaklaff"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "130",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "131",
-    "question": "Tumörens utbredning och förekomst av metastaser är avgörande faktorer för stadieindelning och val av behandling vid lungcancer.\n\nPET: positronemissionstomografi\nCT: datortomografi\nFDG: fludeoxyglucose\nSPECT: single-photon emission computed tomography\n\nVilken av nedanstående bildgivande metoder är bäst på att identifiera eventuell metastasering? Välj ett alternativ:",
-    "options": [
-      "¹⁸F FDG - PET/CT helkropp",
-      "CT thorax och buk utan och med intravenös kontrast",
-      "Magnetresonansto­mografi thorax med diffusionssekvens",
-      "Skelettscintigrafi med SPECT/CT",
-      "CT thorax med intravenös kontrast"
-    ],
-    "answer": "¹⁸F FDG - PET/CT helkropp"
   },
   {
     "language": "sv",
@@ -2660,26 +2428,6 @@
     "level": "graduate",
     "category_en": "Medicine",
     "category_original_lang": "Medicin",
-    "original_question_num": "134",
-    "question": "Spädbarnets skalle består av benplattor förenade med bindvävssuturer. Efter hur många månader kan man normalt förvänta sig att främre fontanellen har slutit sig? Välj ett alternativ:",
-    "options": [
-      "24 månader",
-      "36 månader",
-      "6 månader",
-      "3 månader",
-      "12 månader"
-    ],
-    "answer": "12 månader"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
     "original_question_num": "135",
     "question": "Föräldrarna till Alvin, 9 månader, kommer till akutmottagningen därför att pojken skriker på ett sätt som han inte brukar. Skrikepisoderna håller i sig ett par minuter, sedan verkar det släppa eftersom pojken lugnar ner sig och slappnar av. Alvin har inte kunnat äta och för 2 timmar sedan kräktes han för första gången. Sedan dess har gossen kräkts flera gånger och nu på slutet är kräkningarna gulaktiga. Precis innan man åkte till sjukhuset bajsade Alvin en liten klump blodtillblandat slem.\n\nVilken av följande åtgärder är rimligast att vidta i detta läge?\nVälj ett alternativ:",
     "options": [
@@ -2710,22 +2458,6 @@
       "Flickan bör erbjudas immunglobulinbehandling"
     ],
     "answer": "Flickan bör erbjudas antibiotikabehandling"
-  },
-  {
-    "language": "sv",
-    "country": "Sweden",
-    "file_name": "210525-delprov-140--fragor--slutgiltig-version.pdf",
-    "source": "https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/",
-    "license": "unknown",
-    "level": "graduate",
-    "category_en": "Medicine",
-    "category_original_lang": "Medicin",
-    "original_question_num": "137",
-    "question": "invalid",
-    "options": [
-      "invalid"
-    ],
-    "answer": "invalid"
   },
   {
     "language": "sv",
