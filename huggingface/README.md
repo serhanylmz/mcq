@@ -37,5 +37,5 @@ The questions were extracted from Swedish medical exam papers. Each instance in 
 
 The questions here are a collection of the Swedish medical exams between 2020-02-10 and 2022-05-24.
 
-All questions here have been obtained from the official website of Umeå University. 
+All questions here have been obtained from the official website of Umea University. 
 Link: https://www.umu.se/utbildning/sok/kunskapsprov/kunskapsprov-for-lakare/teoretiskt-delprov/
