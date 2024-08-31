@@ -3,7 +3,7 @@ from datasets import Dataset
 from huggingface_hub import HfApi, DatasetCard
 
 # Load the dataset
-with open('final_dataset.json', 'r', encoding='utf-8') as f:
+with open('cleaned_dataset.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Create a Hugging Face dataset
